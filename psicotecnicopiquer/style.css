@@ -1,0 +1,11341 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  background-color: snow;
+}
+
+@media screen and (min-width: 1441px) {
+
+.header {
+  background-color: #0092d6;
+  height: 80px;
+  width: 100%;
+}
+
+.header {
+  background-color: #0092d6;
+  height: 80px;
+  width: 100%;
+}
+
+.loggo {
+  position: absolute;
+  width:350px;
+  height: 430px;
+  right: 38.5%;
+  margin-top: -80px;
+}
+
+.Logoh2 {
+  position: absolute;
+  right: 32%;
+  top: 23px;
+  color: white;
+  font-size: 32px;
+}
+
+.nextlogo {
+  position: absolute;
+  color: white;
+  right: 56.8%;
+  font-size: 32px;
+  top: 23px;
+}
+
+.horarios {
+  position: absolute;
+  top: 10px;
+  color: white;
+  left: 1%;
+}
+
+.Fhorarios {
+  display: none;
+}
+
+.Flaborables {
+  display: none;
+}
+
+.Ftardes {
+  display: none;
+}
+
+.Fsabados {
+  display: none;
+}
+
+.laborables {
+  position: absolute;
+  color: white;
+  left: 6%;
+  top: 10px;
+}
+
+.tardes {
+  position: absolute;
+  color: white;
+  top: 53px;
+  left: 6%;
+}
+
+.sabados {
+  position: absolute;
+  color: white;
+  top: 32px;
+  left: 6%;
+}
+
+.campamentoo {
+  position: absolute;
+  color: white;
+  right: 14%;
+  top: 46px;
+}
+
+.metro {
+  position: absolute;
+  top: 42px;
+  width: 40px;
+  height: 28px;
+  right: 23%;
+}
+
+.phoneeicon {
+  position: absolute;
+  top: 40px;
+  width: 30px;
+  height: 30px;
+  right: 9%;
+}
+
+.pnumber {
+  position: absolute;
+  right: 1%;
+  color: white;
+  top: 15px;
+}
+
+.Telf {
+  position: absolute;
+  color: white;
+  margin-top: 43px;
+  right: 1%;
+}
+
+.doctorimage {
+  width: 100%;
+  height: 630px;
+  filter: brightness(80%);
+}
+
+#myBtn {
+  position: fixed;
+  display: none;
+  width: 40px;
+  height: 40px;
+  top: 70%;
+  left: 3%;
+  z-index: 5;
+}
+
+#myBtnn {
+  position: fixed;
+  display: block;
+  width: 40px;
+  height: 40px;
+  top: 70%;
+  left: 3%;
+  z-index: 5;
+}
+
+.navbar {
+border-radius: 3px 3px 3px 3px;
+position: absolute;
+left: 3%;
+top: 90px;
+background-color: snow;
+height: 50px;
+width: 600px;
+z-index: 3;
+}
+
+.Menu_words {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+list-style-type: none;
+}
+
+.Menu_words li {
+margin-top: 15px;
+font-size: 18px;
+color: #0092d6;
+cursor: pointer;
+font-weight: bold;
+}
+
+.menuli:hover {
+  color: #595959;
+}
+
+.menuli {
+  padding-bottom: 16px;
+}
+
+.downarrow {
+  position: absolute;
+  width: 18px;
+  height: 18px;
+  left: 300px;
+  top: 17px;
+  cursor: pointer;
+}
+
+.hiddendiv {
+  position: absolute;
+  width: 200px;
+  height: 238px;
+  background-color: #0092d6;
+  top: 140px;
+  left: 172px;
+  border-radius: 0 0 6px 6px;
+  display: none;
+  transition: 0.5s;
+  z-index: 3;
+}
+
+.hiddendiv ul li {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  justify-content: space-around;
+  margin-top: 14px;
+  color: white;
+  cursor: pointer;
+  display: none;
+  text-align: center;
+}
+
+.inicio {
+  padding-left: 30px;
+}
+
+.Fcontacto {
+  padding-right: 30px;
+}
+
+.firsth1 {
+  position: absolute;
+  top: 63%;
+  left: 2%;
+  font-size: 63px;
+  color: white;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+#medicosbreak::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#informes::after {
+
+}
+
+#del::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#examen::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#como::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#una::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#medic::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#opera::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#license::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#personal::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#ellas::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#perro::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#validez::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#potential::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#ministory::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#el::after {
+  content: "\a";
+  white-space: pre;
+}
+
+#comp::after {
+  content: "\a";
+  white-space: pre;
+}
+
+.Linebetween {
+  width: 200px;
+  height: 10px;
+  background-color: #0092d6;
+  position: absolute;
+  top: 83.5%;
+  left: 2%;
+  border-radius: 3px;
+}
+
+.somos {
+  position: absolute;
+  top: 86%;
+  left: 2%;
+  font-size: 25px;
+  color: snow;
+}
+
+.examenh2 {
+  position: absolute;
+  left: 34%;
+  color: #0092d6;
+  margin-top: 10px;
+  font-size: 30px;
+}
+
+.typosdivide {
+  position: absolute;
+  width: 200px;
+  height: 2.5px;
+  background-color: gray;
+  border-radius: 10px;
+  left: 40.5%;
+  margin-top: 50px;
+}
+
+.carnet {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  margin-top: 100px;
+  left: 10%;
+  border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+}
+
+.conducir {
+  width: 100%;
+  border-radius: 3px 60px 0 0;
+}
+
+.carnet p {
+  position: absolute;
+  top: 75%;
+  font-size: 30px;
+  left: 12%;
+  color: snow;
+}
+
+.carnet:hover {
+margin-top: 90px;
+transition-duration: 0.3s;
+-webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.operador {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  left: 10%;
+  top: 1190px;
+  border-radius: 3px 60px 3px 60px;
+cursor: pointer;
+}
+
+.gruas {
+  width: 100%;
+  border-radius: 3px 60px 0 0;
+}
+
+.operador p {
+  position: absolute;
+  top: 64%;
+  font-size: 30px;
+  left: 18%;
+  color: snow;
+}
+
+.operador:hover {
+  top: 1180px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.armas {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  margin-top: 100px;
+  left: 38.5%;
+  border-radius: 3px 60px 3px 60px;
+cursor: pointer;
+}
+
+.armasimage {
+  width: 100%;
+  height: 195px;
+  border-radius: 3px 60px 0 0;
+}
+
+.armas p {
+  position: absolute;
+  font-size: 30px;
+  color: snow;
+  top: 70%;
+  left: 15%;
+}
+
+.armas:hover {
+  margin-top: 90px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.animales {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  top: 1190px;
+  left: 38.5%;
+  border-radius: 3px 60px 3px 60px;
+cursor: pointer;
+}
+
+.animalesimage {
+  width: 100%;
+  border-radius: 3px 60px 0 0;
+  height: 195px;
+}
+
+.animales p {
+  position: absolute;
+  top: 75%;
+  color: snow;
+  left: 10%;
+  font-size: 30px;
+}
+
+.animales:hover {
+  top: 1180px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.barcos {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  margin-top: 100px;
+  left: 67%;
+  border-radius: 3px 60px 3px 60px;
+cursor: pointer;
+}
+
+.barcosimage {
+  width: 100%;
+  border-radius: 3px 60px 0 0;
+  height: 195px;
+}
+
+.barcos p {
+  position: absolute;
+  font-size: 30px;
+  color: snow;
+  top: 71%;
+  left: 13%;
+}
+
+.barcos:hover {
+  margin-top: 90px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.buceo {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  top: 1190px;
+  left: 67%;
+  border-radius: 3px 60px 3px 60px;
+cursor: pointer;
+}
+
+.buceoimage {
+  width: 100%;
+  height: 195px;
+  border-radius: 3px 60px 0 0;
+}
+
+.buceo p {
+  position: absolute;
+  top: 75%;
+  left: 15%;
+  color: snow;
+  font-size: 30px;
+}
+
+.buceo:hover {
+  top: 1180px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.ordinarios {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background-color: #0092d6;
+  top: 1570px;
+  left: 38.5%;
+  border-radius: 3px 60px 3px 60px;
+cursor: pointer;
+}
+
+.ordinariospic {
+  width: 100%;
+  height: 195px;
+  border-radius: 3px 60px 0 0;
+}
+
+.ordinarios p {
+  position: absolute;
+  top: 72%;
+  left: 25%;
+  color: snow;
+  font-size: 30px;
+}
+
+.ordinarios:hover {
+  top: 1560px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+}
+
+.divide_line {
+  position: absolute;
+  top: 1960px;
+  height: 2.5px;
+  width: 90%;
+  background-color: #cccccc;
+  left: 70px;
+}
+
+.Contact_div {
+  position: absolute;
+  width: 80%;
+  height: 588px;
+  top: 2530px;
+  left: 13%;
+  border-radius: 30px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.contactmetro {
+  position: absolute;
+  width: 40px;
+  height: 30px;
+  z-index: 1;
+  top: 100px;
+  right: 448px;
+}
+
+.contactimage {
+  border-radius: 30px;
+  position: absolute;
+  width: 100%;
+  height: 588px;
+  top: 0%;
+  filter: brightness(80%);
+}
+
+.contacth3 {
+  position: absolute;
+  left: 22%;
+  color: white;
+  font-size: 30px;
+  margin-top: 5px;
+  z-index: 1;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.form_llamar {
+  position: absolute;
+  border-radius: 15px;
+  right: 39%;
+  bottom: 10px;
+  width: 300px;
+  height: 50px;
+  font-size: 30px;
+  color: white;
+  background-color: #00e034;
+  border-color: gray;
+  cursor: pointer;
+  z-index: 1;
+  border: solid 0px;
+}
+
+.mapspacing {
+  height: 200px;
+}
+
+.look {
+  position: absolute;
+  width: 130px;
+  height: 80px;
+  top: 430px;
+  left: 130px;
+}
+
+.look2 {
+  position: absolute;
+  width: 140px;
+  height: 80px;
+  top: 430px;
+  left: 270px;
+}
+
+.map {
+  position: absolute;
+  left: 130px;
+  top: 120px;
+}
+
+.location {
+  position: absolute;
+  color: snow;
+  left: 130px;
+  top: 65px;
+  z-index: 1;
+}
+
+.metroloc {
+  position: absolute;
+  color: snow;
+  z-index: 1;
+  right: 330px;
+  top: 105px;
+}
+
+.autobus1 {
+  position: absolute;
+  color: snow;
+  z-index: 1;
+  top: 165px;
+  right: 148px;
+}
+
+.autobus2 {
+  position: absolute;
+  color: snow;
+  z-index: 1;
+  top: 290px;
+  right: 190px;
+}
+
+.scndautobusp {
+  position: absolute;
+  right: 165px;
+  color: snow;
+  z-index: 1;
+  top: 230px;
+}
+
+.contnumber {
+  position: absolute;
+  color: snow;
+  z-index: 1;
+  left: 655px;
+  top: 365px;
+  font-size: 20px;
+}
+
+.contemail {
+  position: absolute;
+  color: snow;
+  z-index: 1;
+  left: 655px;
+  top: 410px;
+  font-size: 20px;
+}
+
+.greenbus {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  z-index: 1;
+  right: 450px;
+  top: 155px;
+}
+
+.bluebus1 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  z-index: 1;
+  right: 450px;
+  top: 220px;
+}
+
+.bluebus2 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  z-index: 1;
+  right: 450px;
+  top: 280px;
+}
+
+.citaprevia {
+  position: absolute;
+  width: 220px;
+  height: 100px;
+  background-color: snow;
+  z-index: 3;
+  right: 0%;
+  top: 73%;
+  border-radius: 10px 0 0 10px;
+}
+
+.cita {
+  position: absolute;
+  left: 50px;
+  font-size: 27px;
+  top: 5px;
+  color: #0092d6;
+}
+
+.Solicite {
+  position: absolute;
+  top: 35px;
+  left: 5px;
+  font-size: 16px;
+}
+
+.percent {
+  position: absolute;
+  top: 60px;
+  left: 75px;
+  font-size: 35px;
+  color: #0092d6;
+}
+
+.h2blog {
+  position: absolute;
+  top: 2020px;
+  left: 22%;
+  font-size: 30px;
+  color: #636363;
+}
+
+.thirdline {
+  position: absolute;
+  width: 200px;
+  height: 6px;
+  background-color: #0092d6;
+  top: 2060px;
+  left: 42%;
+  border-radius: 30px;
+}
+
+.blogp {
+  position: absolute;
+  top: 2100px;
+  width: 50%;
+  left: 25%;
+  font-size: 22px;
+  color: #636363;
+}
+
+.scndblogp {
+  position: absolute;
+  top: 2250px;
+  width: 50%;
+  left: 25%;
+  font-size: 22px;
+  color: #636363;
+}
+
+.cumplimos {
+  position: absolute;
+  top: 2350px;
+  font-size: 22px;
+  color: #636363;
+  width: 50%;
+  left: 25%;
+}
+
+.footer {
+  position: absolute;
+  top: 3150px;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+}
+
+.enlaces {
+  position: absolute;
+  left: 44%;
+  margin-top: 10px;
+  color: snow;
+}
+
+.dgt {
+  position: absolute;
+  top: 35%;
+  left: 21%;
+  border-radius: 100px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.semt {
+  position: absolute;
+  right: 25%;
+  top: 35%;
+  border-radius: 100px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.designed {
+  position: absolute;
+  bottom: 6%;
+  color: snow;
+  right: 3%;
+}
+
+.Hnavbar {
+  border-radius: 3px 3px 3px 3px;
+  position: absolute;
+  left: 3%;
+  top: 90px;
+  background-color: #ebebeb;
+  height: 50px;
+  width: 600px;
+  z-index: 3;
+}
+
+.Historypaper {
+  position: absolute;
+  width: 40%;
+  left: 26%;
+  top: 250px;
+}
+
+.Historiah1 {
+  position: absolute;
+  font-size: 80px;
+  left: 35%;
+  top: 160px;
+}
+
+.Hfooter {
+  position: absolute;
+  top: 1150px;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+}
+/*links here*/
+
+.hiddendiv a {
+  color: snow;
+  text-decoration: none;
+}
+
+.hiddendiv a:hover {
+  color: #595959;
+}
+
+.historia {
+  color: #0092d6;
+  text-decoration: none;
+}
+
+.historia:hover {
+  color: #595959;
+}
+
+.loscentros {
+  color: #0092d6;
+  text-decoration: none;
+}
+
+.loscentros:hover {
+  color: #595959;
+}
+
+.contactol {
+  color: #0092d6;
+  text-decoration: none;
+}
+
+.contactol:hover {
+  color: #595959;
+}
+
+.start {
+  color: #0092d6;
+  text-decoration: none;
+}
+
+.start:hover {
+  color: #595959;
+}
+
+/*Animations */
+
+
+
+/*conducir html */
+
+.Driving {
+  filter: brightness(80%);
+  width: 100%;
+}
+
+.Cfirsth1 {
+  position: absolute;
+  color: snow;
+  font-size: 57px;
+  left: 32%;
+  top: 248px;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.Clinebetween {
+  position: absolute;
+  width: 300px;
+  height: 5px;
+  background-color: #0092d6;
+  top: 343px;
+  left: 37%;
+  border-radius: 3px;
+}
+
+.girldrive{
+  position: absolute;
+  right: 4%;
+  width: 500px;
+  height: 333px;
+  margin-top: 80px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.Obtencion {
+  position: absolute;
+  margin-top: 50px;
+  color: #0092d6;
+  left: 3%;
+  font-size: 32px;
+}
+
+.Te {
+  position: absolute;
+  margin-top: 200px;
+  left: 4%;
+  color: #454545;
+  font-size: 18px;
+}
+
+.obtencionUl {
+  position: absolute;
+  margin-top: 300px;
+  left: 5%;
+  color: #454545;
+  font-size: 18px;
+}
+
+.documentss {
+  position: absolute;
+  width: 500px;
+  height: 333px;
+  margin-top: 550px;
+  left: 8%;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.Documentacion {
+  position: absolute;
+  margin-top: 550px;
+  font-size: 32px;
+  right: 13%;
+  color: #0092d6;
+}
+
+.DocumentacionUL {
+  position: absolute;
+  margin-top: 635px;
+  right: 12%;
+  font-size: 18px;
+  color: #454545;
+}
+
+.paises {
+  position: absolute;
+  margin-top: 1000px;
+  left: 10%;
+  font-size: 32px;
+  color: #0092d6;
+}
+
+.Los {
+  margin-top: 1100px;
+  position: absolute;
+  left: 12%;
+  font-size: 18px;
+  color: #454545;
+}
+
+.Gocontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  top: 1650px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Cfooter {
+  position: absolute;
+  top: 1750px;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+}
+
+/*operadores html */
+
+.Ggrua {
+  width: 100%;
+}
+
+.Ofirsth1 {
+  font-size: 70px;
+  color: snow;
+  position: absolute;
+  top: 250px;
+  left: 30%;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.En {
+  position: absolute;
+  left: 5%;
+  color: #0092d6;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.desea {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 260px;
+  left: 10%;
+}
+
+.Oque {
+  position: absolute;
+  font-size: 32px;
+  color: #0092d6;
+  text-align: center;
+  margin-top: 550px;
+  left: 18%;
+}
+.segun {
+  position: absolute;
+  margin-top: 630px;
+  font-size: 18px;
+  color: #454545;
+  left: 0.5%;
+  text-align: center;
+}
+
+.necesitas {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  top: 1200px;
+  text-align: center;
+  left: 10%;
+}
+
+.Osolo {
+  position: absolute;
+  left: 27%;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 850px;
+  text-align: center;
+}
+
+.Ofooter {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+  margin-top: 1045px;
+}
+
+.Ocontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  top: 1400px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Otorreimage {
+  position: absolute;
+  right: 7%;
+  width: 500px;
+  height: 333px;
+  margin-top: 155px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+/*Armas.html*/
+
+.Aarmas {
+  width: 100%;
+}
+
+.Afirsth1 {
+  font-size: 70px;
+  color: snow;
+  position: absolute;
+  top: 250px;
+  left: 25%;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.Aobtencion {
+  position: absolute;
+  color: #0092d6;
+  font-size: 32px;
+  left: 5%;
+  margin-top: 50px;
+}
+
+.AobtencionP {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  left: 8%;
+  margin-top: 115px;
+}
+
+.AobtencionUL {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  left: 10%;
+  margin-top: 300px;
+}
+
+.Adocumentacion {
+  position: absolute;
+  color: #0092d6;
+  font-size: 32px;
+  left: 7%;
+  margin-top: 400px;
+}
+
+.AdocumentacionUL {
+  position: absolute;
+  margin-top: 450px;
+  color: #454545;
+  left: 9%;
+  font-size: 18px;
+}
+
+.Atipos {
+  position: absolute;
+  margin-top: 600px;
+  font-size: 32px;
+  color: #0092d6;
+  right: 18%;
+}
+
+.tiposp {
+  position: absolute;
+  margin-top: 700px;
+  right: 13%;
+  font-size: 18px;
+  color: #454545;
+}
+
+.Acontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  top: 1400px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.Huntimg {
+  position: absolute;
+  right: 8%;
+  width: 500px;
+  height: 333px;
+  margin-top: 90px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.Huntpic {
+  position: absolute;
+  left: 8%;
+  width: 500px;
+  height: 333px;
+  margin-top: 590px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.ARfooter {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+  margin-top: 1010px;
+}
+
+/*animales html*/
+
+.ANfirsth1 {
+  font-size: 50px;
+  color: snow;
+  position: absolute;
+  top: 280px;
+  left: 33%;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.ANobtener {
+  position: absolute;
+  font-size: 32px;
+  color: #0092d6;
+  left: 8%;
+  margin-top: 50px;
+}
+
+.ANla {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 100px;
+  left: 9%;
+}
+
+.ANa {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 275px;
+  left: 9%;
+}
+
+.ANdocumentacion {
+  position: absolute;
+  font-size: 31px;
+  color: #0092d6;
+  margin-top: 470px;
+  right: 5%;
+}
+
+.ANsecondUL {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 530px;
+  right: 3%;
+}
+
+.ANrazas {
+  position: absolute;
+  font-size: 31px;
+  color: #0092d6;
+  margin-top: 880px;
+  right: 3%;
+}
+
+.animalslink {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  right: 12%;
+  margin-top: 980px;
+}
+
+.ANquien {
+  position: absolute;
+  font-size: 32px;
+  color: #0092d6;
+  margin-top: 1100px;
+  right: 22%;
+}
+
+.ANfourthUL {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 1180px;
+  right: 21%;
+}
+
+.ANfooter {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+  margin-top: 1385px;
+}
+
+.ANcontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  top: 1750px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.dog1 {
+  position: absolute;
+  right: 10%;
+  width: 500px;
+  height: 333px;
+  margin-top: 80px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.dog2 {
+  position: absolute;
+  left: 9%;
+  width: 500px;
+  height: 333px;
+  margin-top: 480px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+.dog3 {
+  position: absolute;
+  left: 9%;
+  width: 500px;
+  height: 333px;
+  margin-top: 900px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+/*barcos html*/
+
+.BAfirsth1 {
+  font-size: 50px;
+  color: snow;
+  position: absolute;
+  top: 280px;
+  left: 30%;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.Bcertificados {
+  position: absolute;
+  color: #0092d6;
+  font-size: 32px;
+  text-align: center;
+  margin-top: 11px;
+  left: 1%;
+}
+
+.Bpatron {
+  position: absolute;
+  color: #454545;
+  font-size: 18px;
+  margin-top: 60px;
+  left: 3%;
+}
+
+.Bno {
+  position: absolute;
+  color: #454545;
+  font-size: 18px;
+  margin-top: 115px;
+  left: 3%;
+}
+
+.Bcomoes {
+  position: absolute;
+  color: #0092d6;
+  font-size: 32px;
+  margin-top: 180px;
+  text-align: center;
+  left: 1%;
+}
+
+.Blos {
+  position: absolute;
+  color: #454545;
+  font-size: 18px;
+  margin-top: 230px;
+  left: 3%;
+}
+
+.Btal {
+  position: absolute;
+  color: #454545;
+  font-size: 18px;
+  margin-top: 290px;
+  left: 3%;
+}
+
+.Bsi {
+  position: absolute;
+  color: #454545;
+  font-size: 18px;
+  margin-top: 350px;
+  left: 3%;
+}
+
+.Bsolo {
+  position: absolute;
+  color: #454545;
+  font-size: 18px;
+  margin-top: 390px;
+  left: 3%;
+}
+
+.Bfooter {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+  margin-top: 580px;
+}
+
+.Bcontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  margin-top: 490px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+/*buceo html*/
+
+.BUfirsth1 {
+  font-size: 50px;
+  color: snow;
+  position: absolute;
+  top: 280px;
+  left: 35%;
+  text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+}
+
+.BUcertificado {
+  position: absolute;
+  font-size: 32px;
+  text-align: center;
+  color: #0092d6;
+  left: 15%;
+  margin-top: 10px;
+}
+
+.BUrealizamos {
+position: absolute;
+font-size: 18px;
+color: #454545;
+margin-top: 105px;
+left: 6%;
+}
+
+.BUnuestra {
+  position: absolute;
+  font-size: 18px;
+  color: #454545;
+  margin-top: 300px;
+  left: 6%;
+}
+
+.BUfooter {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+  margin-top: 550px;
+}
+
+.BUcontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  margin-top: 470px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.ddivingsea {
+  position: absolute;
+  right: 5%;
+  width: 500px;
+  height: 333px;
+  margin-top: 60px;
+  border-radius: 50px 50px 50px 50px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+}
+
+/* Ordinarios html */
+
+.ordinariosUL {
+  position: absolute;
+  font-size: 22px;
+  color: #454545;
+  right: 14%;
+  margin-top: 200px;
+}
+
+.certificateimg {
+  position: absolute;
+  width: 30%;
+  left: 11%;
+  margin-top: 100px;
+}
+
+.ORcontact {
+  position: absolute;
+  width: 200px;
+  height: 50px;
+  left: 41%;
+  font-size: 20px;
+  background-color: #0092d6;
+  color: snow;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 900px;
+}
+
+.ORfooter {
+  position: absolute;
+  width: 100%;
+  height: 170px;
+  background-color: #0092d6;
+  margin-top: 1000px;
+}
+}
+
+/*Diff screens here Diff screens here*/
+
+/* laptop and more */
+
+@media screen and (min-width: 1201px) and (max-width: 1440px) {
+  .header {
+    background-color: #0092d6;
+    height: 80px;
+    width: 100%;
+  }
+
+  .loggo {
+    position: absolute;
+    width:300px;
+    height: 380px;
+    right: 37.5%;
+    margin-top: -66px;
+  }
+
+  .Logoh2 {
+    position: absolute;
+    right: 28.7%;
+    top: 23px;
+    color: white;
+    font-size: 30px;
+  }
+
+  .nextlogo {
+    position: absolute;
+    right: 57.5%;
+    top: 23px;
+    color: white;
+    font-size: 30px;
+  }
+
+  .horarios {
+    position: absolute;
+    top: 10px;
+    color: white;
+    left: 1%;
+    font-size: 15px;
+  }
+
+  .Fhorarios {
+    display: none;
+  }
+
+  .Flaborables {
+    display: none;
+  }
+
+  .Ftardes {
+    display: none;
+  }
+
+  .Fsabados {
+    display: none;
+  }
+
+  .laborables {
+    position: absolute;
+    color: white;
+    left: 6%;
+    top: 10px;
+    font-size: 15px;
+  }
+
+  .tardes {
+    position: absolute;
+    color: white;
+    top: 53px;
+    left: 6%;
+    font-size: 15px;
+  }
+
+  .sabados {
+    position: absolute;
+    color: white;
+    top: 32px;
+    left: 6%;
+    font-size: 15px;
+  }
+
+  .campamentoo {
+    position: absolute;
+    color: white;
+    right: 14%;
+    top: 46px;
+    font-size: 15px;
+  }
+
+  .metro {
+    position: absolute;
+    top: 42px;
+    width: 40px;
+    height: 28px;
+    right: 23%;
+  }
+
+  .phoneeicon {
+    position: absolute;
+    top: 40px;
+    width: 30px;
+    height: 30px;
+    right: 9.5%;
+  }
+
+  .pnumber {
+    position: absolute;
+    right: 1%;
+    color: white;
+    top: 15px;
+    font-size: 15px;
+  }
+
+  .Telf {
+    position: absolute;
+    color: white;
+    margin-top: 43px;
+    right: 1%;
+    font-size: 15px;
+  }
+
+  .doctorimage {
+    width: 100%;
+    height: 625px;
+    filter: brightness(80%);
+  }
+
+  #myBtn {
+    position: fixed;
+    display: none;
+    width: 40px;
+    height: 40px;
+    top: 70%;
+    left: 3%;
+    z-index: 5;
+  }
+
+  #myBtnn {
+    position: fixed;
+    display: block;
+    width: 40px;
+    height: 40px;
+    top: 70%;
+    left: 3%;
+    z-index: 5;
+  }
+
+  #parala::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #trafico::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #psico::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #y::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #entrega::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #meses::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #the::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #li::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #cada::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #license::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #for::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #van::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #ppp::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #perro::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #obtenida::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #que::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #tenen::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #original::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #penales::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #ooo::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #mmm::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #el::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #salud::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #una::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #rrr::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  .navbar {
+  border-radius: 3px 3px 3px 3px;
+  position: absolute;
+  left: 3%;
+  top: 90px;
+  background-color: snow;
+  height: 50px;
+  width: 600px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  z-index: 3;
+  }
+
+  .Menu_words {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  }
+
+  .Menu_words li {
+  margin-top: 15px;
+  font-size: 18px;
+  color: #0092d6;
+  cursor: pointer;
+  font-weight: bold;
+  }
+
+  .menuli:hover {
+    color: #595959;
+  }
+
+  .menuli {
+    padding-bottom: 16px;
+  }
+
+  .downarrow {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 300px;
+    top: 17px;
+    cursor: pointer;
+  }
+
+  .hiddendiv {
+    position: absolute;
+    width: 200px;
+    height: 238px;
+    background-color: #0092d6;
+    top: 140px;
+    left: 165px;
+    border-radius: 0 0 6px 6px;
+    display: none;
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  .hiddendiv ul li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 14px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    text-align: center;
+  }
+
+  .inicio {
+    padding-left: 30px;
+  }
+
+  .Fcontacto {
+    padding-right: 30px;
+  }
+
+  .firsth1 {
+    position: absolute;
+    top: 63%;
+    left: 2%;
+    font-size: 63px;
+    color: white;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Linebetween {
+    width: 200px;
+    height: 10px;
+    background-color: #0092d6;
+    position: absolute;
+    top: 83.5%;
+    left: 2%;
+    border-radius: 3px;
+  }
+
+  .somos {
+    position: absolute;
+    top: 86%;
+    left: 2%;
+    font-size: 24px;
+    color: white;
+  }
+
+  .examenh2 {
+    position: absolute;
+    left: 34%;
+    color: #0092d6;
+    margin-top: 10px;
+    font-size: 30px;
+  }
+
+  .typosdivide {
+    position: absolute;
+    width: 200px;
+    height: 2.5px;
+    background-color: gray;
+    border-radius: 10px;
+    left: 40.5%;
+    margin-top: 50px;
+  }
+
+  .carnet {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    margin-top: 100px;
+    left: 10%;
+    border-radius: 3px 60px 3px 60px;
+    cursor: pointer;
+  }
+
+  .conducir {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .carnet p {
+    position: absolute;
+    top: 75%;
+    font-size: 30px;
+    left: 12%;
+    color: snow;
+  }
+
+  .carnet:hover {
+  margin-top: 90px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .operador {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    left: 10%;
+    top: 1190px;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .gruas {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .operador p {
+    position: absolute;
+    top: 64%;
+    font-size: 30px;
+    left: 18%;
+    color: snow;
+  }
+
+  .operador:hover {
+    top: 1180px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .armas {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    margin-top: 100px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .armasimage {
+    width: 100%;
+    height: 195px;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .armas p {
+    position: absolute;
+    font-size: 30px;
+    color: snow;
+    top: 70%;
+    left: 15%;
+  }
+
+  .armas:hover {
+    margin-top: 90px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .animales {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    top: 1190px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .animalesimage {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+    height: 195px;
+  }
+
+  .animales p {
+    position: absolute;
+    top: 75%;
+    color: snow;
+    left: 10%;
+    font-size: 30px;
+  }
+
+  .animales:hover {
+    top: 1180px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .barcos {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    margin-top: 100px;
+    left: 67%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .barcosimage {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+    height: 195px;
+  }
+
+  .barcos p {
+    position: absolute;
+    font-size: 30px;
+    color: snow;
+    top: 71%;
+    left: 13%;
+  }
+
+  .barcos:hover {
+    margin-top: 90px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .buceo {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    top: 1190px;
+    left: 67%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .buceoimage {
+    width: 100%;
+    height: 195px;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .buceo p {
+    position: absolute;
+    top: 75%;
+    left: 15%;
+    color: snow;
+    font-size: 30px;
+  }
+
+  .buceo:hover {
+    top: 1180px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .ordinarios {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    background-color: #0092d6;
+    top: 1570px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .ordinariospic {
+    width: 100%;
+    height: 195px;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .ordinarios p {
+    position: absolute;
+    top: 72%;
+    left: 25%;
+    color: snow;
+    font-size: 30px;
+  }
+
+  .ordinarios:hover {
+    top: 1560px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .divide_line {
+    position: absolute;
+    top: 1930px;
+    height: 2.5px;
+    width: 90%;
+    background-color: #cccccc;
+    left: 5%;
+  }
+
+  .Contact_div {
+    position: absolute;
+    width: 1000px;
+    height: 538px;
+    top: 2450px;
+    left: 12%;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .contactmetro {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    z-index: 1;
+    top: 100px;
+    right: 32%;
+  }
+
+  .contactimage {
+    border-radius: 30px;
+    position: absolute;
+    width: 1000px;
+    height: 538px;
+    top: 0%;
+    filter: brightness(80%);
+  }
+
+  .contacth3 {
+    position: absolute;
+    left: 22%;
+    color: white;
+    font-size: 29px;
+    margin-top: 5px;
+    z-index: 1;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .form_llamar {
+    position: absolute;
+    border-radius: 15px;
+    right: 10%;
+    bottom: 10px;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: #00e034;
+    border-color: gray;
+    cursor: pointer;
+    z-index: 1;
+    border: solid 0px;
+  }
+
+  .mapspacing {
+    height: 200px;
+  }
+
+  .look {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 410px;
+    left: 100px;
+  }
+
+  .look2 {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 410px;
+    left: 230px;
+  }
+
+  .map {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+  }
+
+  .location {
+    position: absolute;
+    color: snow;
+    left: 130px;
+    top: 65px;
+    z-index: 1;
+  }
+
+  .metroloc {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    right: 20%;
+    top: 105px;
+  }
+
+  .autobus1 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 165px;
+    right: 10%;
+  }
+
+  .autobus2 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 290px;
+    right: 14%;
+  }
+
+  .scndautobusp {
+    position: absolute;
+    right: 11.6%;
+    color: snow;
+    z-index: 1;
+    top: 230px;
+  }
+
+  .contnumber {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 335px;
+    top: 500px;
+    font-size: 19px;
+  }
+
+  .contemail {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 50px;
+    top: 500px;
+    font-size: 19px;
+  }
+
+  .greenbus {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    right: 40.1%;
+    top: 155px;
+  }
+
+  .bluebus1 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    right: 40.1%;
+    top: 220px;
+  }
+
+  .bluebus2 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    right: 40.1%;
+    top: 280px;
+  }
+
+  .citaprevia {
+    position: absolute;
+    width: 220px;
+    height: 100px;
+    background-color: snow;
+    z-index: 3;
+    right: 0%;
+    top: 65%;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .cita {
+    position: absolute;
+    left: 50px;
+    font-size: 27px;
+    top: 5px;
+    color: #0092d6;
+  }
+
+  .Solicite {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    font-size: 16px;
+  }
+
+  .percent {
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    font-size: 35px;
+    color: #0092d6;
+  }
+
+  .Hfooter {
+    top: 1240px;
+  }
+
+  .Historypaper {
+    width: 700px;
+    left: 17%;
+  }
+
+  .h2blog {
+    position: absolute;
+    top: 1950px;
+    left: 15%;
+    font-size: 30px;
+    color: #636363;
+  }
+
+  .thirdline {
+    position: absolute;
+    width: 200px;
+    height: 6px;
+    background-color: #0092d6;
+    top: 2000px;
+    left: 40%;
+    border-radius: 30px;
+  }
+
+  .blogp {
+    position: absolute;
+    top: 2040px;
+    width: 50%;
+    left: 25%;
+    font-size: 20px;
+    color: #636363;
+  }
+
+  .scndblogp {
+    position: absolute;
+    top: 2190px;
+    width: 50%;
+    left: 25%;
+    font-size: 20px;
+    color: #636363;
+  }
+
+  .cumplimos {
+    position: absolute;
+    top: 2280px;
+    font-size: 19px;
+    color: #636363;
+    width: 50%;
+    left: 25%;
+  }
+
+  .footer {
+    position: absolute;
+    top: 3050px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  .enlaces {
+    position: absolute;
+    left: 44%;
+    margin-top: 10px;
+    color: snow;
+  }
+
+  .dgt {
+    position: absolute;
+    top: 35%;
+    left: 21%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .semt {
+    position: absolute;
+    right: 25%;
+    top: 35%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .designed {
+    position: absolute;
+    bottom: 6%;
+    color: snow;
+    right: 3%;
+  }
+
+  /*links here*/
+
+  .hiddendiv a {
+    color: snow;
+    text-decoration: none;
+  }
+
+  .hiddendiv a:hover {
+    color: #595959;
+  }
+
+  .historia {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .historia:hover {
+    color: #595959;
+  }
+
+  .loscentros {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .loscentros:hover {
+    color: #595959;
+  }
+
+  .contactol {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .contactol:hover {
+    color: #595959;
+  }
+
+  .start {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .start:hover {
+    color: #595959;
+  }
+
+  /*Animations */
+
+
+
+  /*conducir html */
+
+  .Driving {
+    filter: brightness(80%);
+    width: 100%;
+  }
+
+  .Cfirsth1 {
+    position: absolute;
+    color: snow;
+    font-size: 57px;
+    left: 32%;
+    top: 248px;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Clinebetween {
+    position: absolute;
+    width: 300px;
+    height: 5px;
+    background-color: #0092d6;
+    top: 343px;
+    left: 37%;
+    border-radius: 3px;
+  }
+
+  .girldrive{
+    position: absolute;
+    right: 3%;
+    width: 470px;
+    height: 303px;
+    margin-top: 80px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Obtencion {
+    position: absolute;
+    margin-top: 20px;
+    color: #0092d6;
+    left: 1%;
+    font-size: 29px;
+  }
+
+  .Te {
+    position: absolute;
+    margin-top: 100px;
+    left: 2%;
+    color: #454545;
+    font-size: 17px;
+  }
+
+  .obtencionUl {
+    position: absolute;
+    margin-top: 220px;
+    left: 2.5%;
+    color: #454545;
+    font-size: 17px;
+  }
+
+  .documentss {
+    position: absolute;
+    width: 470px;
+    height: 303px;
+    margin-top: 450px;
+    left: 6%;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Documentacion {
+    position: absolute;
+    margin-top: 450px;
+    font-size: 29px;
+    right: 13%;
+    color: #0092d6;
+  }
+
+  .DocumentacionUL {
+    position: absolute;
+    margin-top: 535px;
+    right: 12%;
+    font-size: 17px;
+    color: #454545;
+  }
+
+  .paises {
+    position: absolute;
+    margin-top: 800px;
+    left: 2%;
+    font-size: 29px;
+    color: #0092d6;
+  }
+
+  .Los {
+    margin-top: 950px;
+    position: absolute;
+    left: 1%;
+    font-size: 18px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Gocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1430px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Cfooter {
+    position: absolute;
+    top: 1530px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  /*operadores html */
+
+  .Ggrua {
+    width: 100%;
+  }
+
+  .Ofirsth1 {
+    font-size: 60px;
+    color: snow;
+    position: absolute;
+    top: 250px;
+    left: 34%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .En {
+    position: absolute;
+    left: 0.1%;
+    color: #0092d6;
+    font-size: 29px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .desea {
+    position: absolute;
+    font-size: 18px;
+    color: #454545;
+    margin-top: 260px;
+    left: 4%;
+  }
+
+  .Oque {
+    position: absolute;
+    font-size: 29px;
+    color: #0092d6;
+    text-align: center;
+    margin-top: 500px;
+    left: 15%;
+  }
+  .segun {
+    position: absolute;
+    margin-top: 600px;
+    font-size: 18px;
+    color: #454545;
+    left: 0.1%;
+    text-align: center;
+  }
+
+  .necesitas {
+    position: absolute;
+    font-size: 18px;
+    color: #454545;
+    top: 1050px;
+    text-align: center;
+    left: 0%;
+  }
+
+  .Osolo {
+    position: absolute;
+    left: 22%;
+    font-size: 18px;
+    color: #454545;
+    margin-top: 740px;
+    text-align: center;
+  }
+
+  .Ofooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 910px;
+  }
+
+  .Ocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1190px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Otorreimage {
+    position: absolute;
+    right: 4%;
+    width: 470px;
+    height: 303px;
+    margin-top: 155px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*Armas.html*/
+
+  .Aarmas {
+    width: 100%;
+  }
+
+  .Afirsth1 {
+    font-size: 50px;
+    color: snow;
+    position: absolute;
+    top: 250px;
+    left: 30%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Aobtencion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 29px;
+    left: 2%;
+    margin-top: 10px;
+  }
+
+  .AobtencionP {
+    position: absolute;
+    font-size: 17px;
+    color: #454545;
+    left: 5%;
+    margin-top: 95px;
+  }
+
+  .AobtencionUL {
+    position: absolute;
+    font-size: 17px;
+    color: #454545;
+    left: 6%;
+    margin-top: 250px;
+  }
+
+  .Adocumentacion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 29px;
+    left: 7%;
+    margin-top: 400px;
+  }
+
+  .AdocumentacionUL {
+    position: absolute;
+    margin-top: 450px;
+    color: #454545;
+    left: 9%;
+    font-size: 17px;
+  }
+
+  .Atipos {
+    position: absolute;
+    margin-top: 550px;
+    font-size: 29px;
+    color: #0092d6;
+    right: 13%;
+  }
+
+  .tiposp {
+    position: absolute;
+    margin-top: 700px;
+    right: 3%;
+    font-size: 18px;
+    color: #454545;
+  }
+
+  .Acontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1310px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Huntimg {
+    position: absolute;
+    right: 4%;
+    width: 470px;
+    height: 303px;
+    margin-top: 100px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Huntpic {
+    position: absolute;
+    left: 5%;
+    width: 470px;
+    height: 303px;
+    margin-top: 590px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .ARfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1010px;
+  }
+
+  /*animales html*/
+
+  .ANfirsth1 {
+    font-size: 50px;
+    color: snow;
+    position: absolute;
+    top: 280px;
+    left: 33%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .ANobtener {
+    position: absolute;
+    font-size: 29px;
+    color: #0092d6;
+    left: 2%;
+    margin-top: 10px;
+  }
+
+  .ANla {
+    position: absolute;
+    font-size: 18px;
+    color: #454545;
+    margin-top: 100px;
+    left: 5%;
+  }
+
+  .ANa {
+    position: absolute;
+    font-size: 18px;
+    color: #454545;
+    margin-top: 275px;
+    left: 5%;
+  }
+
+  .ANdocumentacion {
+    position: absolute;
+    font-size: 29px;
+    color: #0092d6;
+    margin-top: 450px;
+    right: 2%;
+  }
+
+  .ANsecondUL {
+    position: absolute;
+    font-size: 17px;
+    color: #454545;
+    margin-top: 530px;
+    right: 8%;
+  }
+
+  .ANrazas {
+    position: absolute;
+    font-size: 29px;
+    color: #0092d6;
+    margin-top: 880px;
+    right: 2%;
+  }
+
+  .animalslink {
+    position: absolute;
+    font-size: 18px;
+    color: #454545;
+    right: 9%;
+    margin-top: 980px;
+    text-align: center;
+  }
+
+  .ANquien {
+    position: absolute;
+    font-size: 29px;
+    color: #0092d6;
+    margin-top: 1050px;
+    right: 22%;
+  }
+
+  .ANfourthUL {
+    position: absolute;
+    font-size: 18px;
+    color: #454545;
+    margin-top: 1120px;
+    right: 17%;
+  }
+
+  .ANfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1385px;
+  }
+
+  .ANcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1690px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .dog1 {
+    position: absolute;
+    right: 5%;
+    width: 470px;
+    height: 303px;
+    margin-top: 80px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog2 {
+    position: absolute;
+    left: 5%;
+    width: 470px;
+    height: 303px;
+    margin-top: 480px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog3 {
+    position: absolute;
+    left: 5%;
+    width: 470px;
+    height: 303px;
+    margin-top: 950px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*barcos html*/
+
+  .BAfirsth1 {
+    font-size: 50px;
+    color: snow;
+    position: absolute;
+    top: 280px;
+    left: 30%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Bcertificados {
+    position: absolute;
+    color: #0092d6;
+    font-size: 27px;
+    text-align: center;
+    margin-top: 11px;
+    left: 1%;
+  }
+
+  .Bpatron {
+    position: absolute;
+    color: #454545;
+    font-size: 17px;
+    margin-top: 55px;
+    left: 2%;
+  }
+
+  .Bno {
+    position: absolute;
+    color: #454545;
+    font-size: 17px;
+    margin-top: 130px;
+    left: 2%;
+  }
+
+  .Bcomoes {
+    position: absolute;
+    color: #0092d6;
+    font-size: 29px;
+    margin-top: 190px;
+    text-align: center;
+    left: 1%;
+  }
+
+  .Blos {
+    position: absolute;
+    color: #454545;
+    font-size: 17px;
+    margin-top: 240px;
+    left: 2%;
+  }
+
+  .Btal {
+    position: absolute;
+    color: #454545;
+    font-size: 17px;
+    margin-top: 300px;
+    left: 2%;
+  }
+
+  .Bsi {
+    position: absolute;
+    color: #454545;
+    font-size: 17px;
+    margin-top: 380px;
+    left: 2%;
+  }
+
+  .Bsolo {
+    position: absolute;
+    color: #454545;
+    font-size: 17px;
+    margin-top: 420px;
+    left: 2%;
+  }
+
+  .Bfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 580px;
+  }
+
+  .Bcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 490px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /*buceo html*/
+
+  .BUfirsth1 {
+    font-size: 50px;
+    color: snow;
+    position: absolute;
+    top: 280px;
+    left: 35%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .BUcertificado {
+    position: absolute;
+    font-size: 29px;
+    text-align: center;
+    color: #0092d6;
+    left: 12%;
+    margin-top: 10px;
+  }
+
+  .BUrealizamos {
+  position: absolute;
+  font-size: 17px;
+  color: #454545;
+  margin-top: 105px;
+  left: 4%;
+  }
+
+  .BUnuestra {
+    position: absolute;
+    font-size: 17px;
+    color: #454545;
+    margin-top: 270px;
+    left: 4%;
+  }
+
+  .BUfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 530px;
+  }
+
+  .BUcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 440px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .ddivingsea {
+    position: absolute;
+    right: 4%;
+    width: 470px;
+    height: 303px;
+    margin-top: 60px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /* Ordinarios html */
+
+  .ordinariosUL {
+    position: absolute;
+    font-size: 20px;
+    color: #454545;
+    right: 14%;
+    margin-top: 200px;
+  }
+
+  .certificateimg {
+    position: absolute;
+    width: 30%;
+    left: 11%;
+    margin-top: 100px;
+  }
+
+  .ORcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 700px;
+  }
+
+  .ORfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 800px;
+  }
+}
+
+@media screen and (min-width: 1025px) and (max-width: 1200px) {
+  .header {
+    background-color: #0092d6;
+    height: 80px;
+    width: 100%;
+  }
+
+  .loggo {
+    position: absolute;
+    width: 280px;
+    height: 360px;
+    right: 39%;
+    margin-top: -60px;
+  }
+
+  .Logoh2 {
+    position: absolute;
+    right: 32%;
+    top: 28px;
+    color: white;
+    font-size: 25px;
+  }
+
+  .nextlogo {
+    position: absolute;
+    right: 60.5%;
+    top: 28px;
+    color: white;
+    font-size: 25px;
+  }
+
+  .horarios {
+    position: absolute;
+    top: 10px;
+    color: white;
+    left: 1%;
+    font-size: 13.5px;
+  }
+
+  .Fhorarios {
+    display: none;
+  }
+
+  .Flaborables {
+    display: none;
+  }
+
+  .Ftardes {
+    display: none;
+  }
+
+  .Fsabados {
+    display: none;
+  }
+
+  .laborables {
+    position: absolute;
+    color: white;
+    left: 6.5%;
+    top: 10px;
+    font-size: 13.5px;
+  }
+
+  .tardes {
+    position: absolute;
+    color: white;
+    top: 53px;
+    left: 6.5%;
+    font-size: 13.5px;
+  }
+
+  .sabados {
+    position: absolute;
+    color: white;
+    top: 32px;
+    left: 6.5%;
+    font-size: 13.5px;
+  }
+
+  .campamentoo {
+    position: absolute;
+    color: white;
+    right: 14%;
+    top: 46px;
+    font-size: 13.5px;
+  }
+
+  .metro {
+    position: absolute;
+    top: 42px;
+    width: 37px;
+    height: 25px;
+    right: 24%;
+  }
+
+  .phoneeicon {
+    position: absolute;
+    top: 40px;
+    width: 27px;
+    height: 27px;
+    right: 10.3%;
+  }
+
+  .pnumber {
+    position: absolute;
+    right: 1%;
+    color: white;
+    top: 15px;
+    font-size: 14px;
+  }
+
+  .Telf {
+    position: absolute;
+    color: white;
+    margin-top: 45px;
+    right: 1%;
+    font-size: 14px;
+  }
+
+  .doctorimage {
+    width: 100%;
+    height: 500px;
+    filter: brightness(80%);
+  }
+
+  #myBtn {
+    position: fixed;
+    display: none;
+    width: 40px;
+    height: 40px;
+    top: 70%;
+    left: 3%;
+    z-index: 5;
+  }
+
+  #myBtnn {
+    position: fixed;
+    display: block;
+    width: 40px;
+    height: 40px;
+    top: 70%;
+    left: 3%;
+    z-index: 5;
+  }
+
+  #parala::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #trafico::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #uuu::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #como::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #y::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #moment::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #while::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #auto::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #li::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #cada::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #dist::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #for::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #van::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #ppp::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #perro::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #obtenida::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #que::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #tenen::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #original::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #penales::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #ooo::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #mmm::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #el::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #salud::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #una::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #rrr::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  .navbar {
+  border-radius: 3px 3px 3px 3px;
+  position: absolute;
+  left: 1%;
+  top: 90px;
+  background-color: snow;
+  height: 40px;
+  width: 550px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  z-index: 3;
+  }
+
+  .Menu_words {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  }
+
+  .Menu_words li {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #0092d6;
+  cursor: pointer;
+  font-weight: bold;
+  }
+
+  .menuli:hover {
+    color: #595959;
+  }
+
+  .menuli {
+    padding-bottom: 16px;
+  }
+
+  .downarrow {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    left: 280px;
+    top: 14px;
+    cursor: pointer;
+  }
+
+  .hiddendiv {
+    position: absolute;
+    width: 200px;
+    height: 205px;
+    background-color: #0092d6;
+    top: 130px;
+    left: 115px;
+    border-radius: 0 0 6px 6px;
+    display: none;
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  .hiddendiv ul li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 10px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    text-align: center;
+    font-size: 15px;
+  }
+
+  .inicio {
+    padding-left: 30px;
+  }
+
+  .Fcontacto {
+    padding-right: 30px;
+  }
+
+  .firsth1 {
+    position: absolute;
+    top: 60.5%;
+    left: 1%;
+    font-size: 50px;
+    color: white;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Linebetween {
+    width: 200px;
+    height: 7px;
+    background-color: #0092d6;
+    position: absolute;
+    top: 68.7%;
+    left: 1%;
+    border-radius: 3px;
+  }
+
+  .somos {
+    position: absolute;
+    top: 70.5%;
+    left: 1%;
+    font-size: 20px;
+    color: white;
+  }
+
+  .examenh2 {
+    position: absolute;
+    left: 34%;
+    color: #0092d6;
+    margin-top: 7px;
+    font-size: 25px;
+  }
+
+  .typosdivide {
+    position: absolute;
+    width: 150px;
+    height: 2.5px;
+    background-color: gray;
+    border-radius: 10px;
+    left: 42%;
+    margin-top: 40px;
+  }
+
+  .carnet {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    margin-top: 80px;
+    left: 7.3%;
+    border-radius: 3px 60px 3px 60px;
+    cursor: pointer;
+  }
+
+  .conducir {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .carnet p {
+    position: absolute;
+    top: 75%;
+    font-size: 25px;
+    left: 12%;
+    color: snow;
+  }
+
+  .carnet:hover {
+  margin-top: 70px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .operador {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    left: 7.3%;
+    top: 990px;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .gruas {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .operador p {
+    position: absolute;
+    top: 64%;
+    font-size: 25px;
+    left: 18%;
+    color: snow;
+  }
+
+  .operador:hover {
+    top: 980px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .armas {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    margin-top: 80px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .armasimage {
+    width: 100%;
+    height: 195px;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .armas p {
+    position: absolute;
+    font-size: 25px;
+    color: snow;
+    top: 74%;
+    left: 15%;
+    text-align: center;
+  }
+
+  .armas:hover {
+    margin-top: 70px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .animales {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    top: 990px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .animalesimage {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+    height: 195px;
+  }
+
+  .animales p {
+    position: absolute;
+    top: 79%;
+    color: snow;
+    left: 10%;
+    font-size: 25px;
+  }
+
+  .animales:hover {
+    top: 980px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .barcos {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    margin-top: 80px;
+    left: 69.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .barcosimage {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+    height: 195px;
+  }
+
+  .barcos p {
+    position: absolute;
+    font-size: 25px;
+    color: snow;
+    top: 74%;
+    left: 13%;
+    text-align: center;
+  }
+
+  .barcos:hover {
+    margin-top: 70px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .buceo {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    top: 990px;
+    left: 69.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .buceoimage {
+    width: 100%;
+    height: 195px;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .buceo p {
+    position: absolute;
+    top: 79%;
+    left: 15%;
+    color: snow;
+    font-size: 25px;
+  }
+
+  .buceo:hover {
+    top: 980px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .ordinarios {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    background-color: #0092d6;
+    top: 1315px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .ordinariospic {
+    width: 100%;
+    height: 195px;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .ordinarios p {
+    position: absolute;
+    top: 75%;
+    left: 25%;
+    color: snow;
+    font-size: 25px;
+  }
+
+  .ordinarios:hover {
+    top: 1305px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .divide_line {
+    position: absolute;
+    top: 1630px;
+    height: 2.5px;
+    width: 90%;
+    background-color: #cccccc;
+    left: 5%;
+  }
+
+  .Contact_div {
+    position: absolute;
+    width: 90%;
+    height: 530px;
+    top: 2150px;
+    left: 6%;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .contactmetro {
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    z-index: 1;
+    top: 100px;
+    right: 32%;
+  }
+
+  .contactimage {
+    border-radius: 30px;
+    position: absolute;
+    width: 100%;
+    height: 530px;
+    top: 0%;
+    filter: brightness(80%);
+  }
+
+  .contacth3 {
+    position: absolute;
+    left: 22%;
+    color: white;
+    font-size: 29px;
+    margin-top: 5px;
+    z-index: 1;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .form_llamar {
+    position: absolute;
+    border-radius: 15px;
+    right: 10%;
+    bottom: 15px;
+    width: 300px;
+    height: 50px;
+    font-size: 30px;
+    color: white;
+    background-color: #00e034;
+    border-color: gray;
+    cursor: pointer;
+    z-index: 1;
+    border: solid 0px;
+  }
+
+  .mapspacing {
+    height: 200px;
+  }
+
+  .look {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 410px;
+    left: 80px;
+  }
+
+  .look2 {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 410px;
+    left: 210px;
+  }
+
+  .map {
+    position: absolute;
+    left: 80px;
+    top: 100px;
+  }
+
+  .location {
+    position: absolute;
+    color: snow;
+    left: 130px;
+    top: 65px;
+    z-index: 1;
+  }
+
+  .metroloc {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    right: 20%;
+    top: 105px;
+    font-size: 15px;
+  }
+
+  .autobus1 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 165px;
+    right: 9%;
+    font-size: 15px;
+  }
+
+  .autobus2 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 290px;
+    right: 13.2%;
+    font-size: 15px;
+  }
+
+  .scndautobusp {
+    position: absolute;
+    right: 10.7%;
+    color: snow;
+    z-index: 1;
+    top: 230px;
+    font-size: 15px;
+  }
+
+  .contnumber {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 300px;
+    top: 500px;
+    font-size: 17px;
+  }
+
+  .contemail {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 50px;
+    top: 500px;
+    font-size: 17px;
+  }
+
+  .greenbus {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    right: 40.1%;
+    top: 155px;
+  }
+
+  .bluebus1 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    right: 40.1%;
+    top: 220px;
+  }
+
+  .bluebus2 {
+    position: absolute;
+    width: 35px;
+    height: 35px;
+    z-index: 1;
+    right: 40.1%;
+    top: 280px;
+  }
+
+  .citaprevia {
+    position: absolute;
+    width: 220px;
+    height: 100px;
+    background-color: snow;
+    z-index: 3;
+    right: 0%;
+    top: 65%;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .cita {
+    position: absolute;
+    left: 50px;
+    font-size: 27px;
+    top: 5px;
+    color: #0092d6;
+  }
+
+  .Solicite {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    font-size: 16px;
+  }
+
+  .percent {
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    font-size: 35px;
+    color: #0092d6;
+  }
+
+  .Hfooter {
+    top: 1100px;
+  }
+
+  .Historypaper {
+    width: 600px;
+    left: 15%;
+  }
+
+  .Historiah1 {
+    left: 32%;
+    font-size: 70px;
+    top: 150px;
+  }
+
+  .h2blog {
+    position: absolute;
+    top: 1645px;
+    left: 13%;
+    font-size: 27px;
+    color: #636363;
+  }
+
+  .thirdline {
+    position: absolute;
+    width: 150px;
+    height: 4px;
+    background-color: #0092d6;
+    top: 1690px;
+    left: 40%;
+    border-radius: 30px;
+  }
+
+  .blogp {
+    position: absolute;
+    top: 1720px;
+    width: 50%;
+    left: 25%;
+    font-size: 19px;
+    color: #636363;
+  }
+
+  .scndblogp {
+    position: absolute;
+    top: 1890px;
+    width: 50%;
+    left: 25%;
+    font-size: 19px;
+    color: #636363;
+  }
+
+  .cumplimos {
+    position: absolute;
+    top: 1990px;
+    font-size: 19px;
+    color: #636363;
+    width: 50%;
+    left: 26%;
+  }
+
+  .footer {
+    position: absolute;
+    top: 2700px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  .enlaces {
+    position: absolute;
+    left: 44%;
+    margin-top: 10px;
+    color: snow;
+  }
+
+  .dgt {
+    position: absolute;
+    top: 35%;
+    left: 21%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .semt {
+    position: absolute;
+    right: 25%;
+    top: 35%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .designed {
+    position: absolute;
+    bottom: 6%;
+    color: snow;
+    right: 3%;
+  }
+
+  /*links here*/
+
+  .hiddendiv a {
+    color: snow;
+    text-decoration: none;
+  }
+
+  .hiddendiv a:hover {
+    color: #595959;
+  }
+
+  .historia {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .historia:hover {
+    color: #595959;
+  }
+
+  .loscentros {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .loscentros:hover {
+    color: #595959;
+  }
+
+  .contactol {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .contactol:hover {
+    color: #595959;
+  }
+
+  .start {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .start:hover {
+    color: #595959;
+  }
+
+  /*Animations */
+
+
+
+  /*conducir html */
+
+  .Driving {
+    filter: brightness(80%);
+    width: 100%;
+  }
+
+  .Cfirsth1 {
+    position: absolute;
+    color: snow;
+    font-size: 55px;
+    left: 32%;
+    top: 248px;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Clinebetween {
+    position: absolute;
+    width: 300px;
+    height: 5px;
+    background-color: #0092d6;
+    top: 310px;
+    left: 37%;
+    border-radius: 3px;
+  }
+
+  .girldrive{
+    position: absolute;
+    right: 2%;
+    width: 420px;
+    height: 253px;
+    margin-top: 80px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Obtencion {
+    position: absolute;
+    margin-top: 5px;
+    color: #0092d6;
+    left: 0.3%;
+    font-size: 25px;
+  }
+
+  .Te {
+    position: absolute;
+    margin-top: 80px;
+    left: 1%;
+    color: #454545;
+    font-size: 15px;
+  }
+
+  .obtencionUl {
+    position: absolute;
+    margin-top: 180px;
+    left: 2%;
+    color: #454545;
+    font-size: 15px;
+  }
+
+  .documentss {
+    position: absolute;
+    width: 420px;
+    height: 253px;
+    margin-top: 420px;
+    left: 4%;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Documentacion {
+    position: absolute;
+    margin-top: 370px;
+    font-size: 25px;
+    right: 13%;
+    color: #0092d6;
+  }
+
+  .DocumentacionUL {
+    position: absolute;
+    margin-top: 525px;
+    right: 11%;
+    font-size: 15px;
+    color: #454545;
+  }
+
+  .paises {
+    position: absolute;
+    margin-top: 710px;
+    left: 2%;
+    font-size: 25px;
+    color: #0092d6;
+  }
+
+  .Los {
+    margin-top: 810px;
+    position: absolute;
+    left: 1%;
+    font-size: 16px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Gocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1230px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Cfooter {
+    position: absolute;
+    top: 1330px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  /*operadores html */
+
+  .Ggrua {
+    width: 100%;
+  }
+
+  .Ofirsth1 {
+    font-size: 50px;
+    color: snow;
+    position: absolute;
+    top: 250px;
+    left: 34%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .En {
+    position: absolute;
+    left: 0%;
+    color: #0092d6;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .desea {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 260px;
+    left: 2%;
+  }
+
+  .Oque {
+    position: absolute;
+    font-size: 25px;
+    color: #0092d6;
+    text-align: center;
+    margin-top: 500px;
+    left: 14%;
+  }
+  .segun {
+    position: absolute;
+    margin-top: 550px;
+    font-size: 15px;
+    color: #454545;
+    left: 0.5%;
+    text-align: center;
+  }
+
+  .necesitas {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    top: 950px;
+    text-align: center;
+    left: 1%;
+  }
+
+  .Osolo {
+    position: absolute;
+    left: 22%;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 680px;
+    text-align: center;
+  }
+
+  .Ofooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 810px;
+  }
+
+  .Ocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1070px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Otorreimage {
+    position: absolute;
+    right: 4%;
+    width: 420px;
+    height: 253px;
+    margin-top: 155px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*Armas.html*/
+
+  .Aarmas {
+    width: 100%;
+  }
+
+  .Afirsth1 {
+    font-size: 45px;
+    color: snow;
+    position: absolute;
+    top: 250px;
+    left: 30%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Aobtencion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 25px;
+    left: 1%;
+    margin-top: 5px;
+  }
+
+  .AobtencionP {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    left: 3.5%;
+    margin-top: 65px;
+  }
+
+  .AobtencionUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    left: 4%;
+    margin-top: 200px;
+  }
+
+  .Adocumentacion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 25px;
+    left: 7%;
+    margin-top: 300px;
+  }
+
+  .AdocumentacionUL {
+    position: absolute;
+    margin-top: 350px;
+    color: #454545;
+    left: 9%;
+    font-size: 17px;
+  }
+
+  .Atipos {
+    position: absolute;
+    margin-top: 450px;
+    font-size: 25px;
+    color: #0092d6;
+    right: 13%;
+  }
+
+  .tiposp {
+    position: absolute;
+    margin-top: 600px;
+    right: 6%;
+    font-size: 16px;
+    color: #454545;
+  }
+
+  .Acontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1110px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Huntimg {
+    position: absolute;
+    right: 4%;
+    width: 420px;
+    height: 253px;
+    margin-top: 70px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Huntpic {
+    position: absolute;
+    left: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 490px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .ARfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 850px;
+  }
+
+  /*animales html*/
+
+  .ANfirsth1 {
+    font-size: 50px;
+    color: snow;
+    position: absolute;
+    top: 255px;
+    left: 32%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .ANobtener {
+    position: absolute;
+    font-size: 25px;
+    color: #0092d6;
+    left: 1%;
+    margin-top: 10px;
+  }
+
+  .ANla {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 70px;
+    left: 3%;
+  }
+
+  .ANa {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 210px;
+    left: 3%;
+  }
+
+  .ANdocumentacion {
+    position: absolute;
+    font-size: 25px;
+    color: #0092d6;
+    margin-top: 350px;
+    right: 2%;
+  }
+
+  .ANsecondUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 430px;
+    right: 5%;
+  }
+
+  .ANrazas {
+    position: absolute;
+    font-size: 25px;
+    color: #0092d6;
+    margin-top: 700px;
+    right: 2%;
+  }
+
+  .animalslink {
+    position: absolute;
+    font-size: 16px;
+    color: #454545;
+    right: 5%;
+    margin-top: 800px;
+    text-align: center;
+  }
+
+  .ANquien {
+    position: absolute;
+    font-size: 25px;
+    color: #0092d6;
+    margin-top: 890px;
+    right: 22%;
+  }
+
+  .ANfourthUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 950px;
+    right: 16%;
+  }
+
+  .ANfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1130px;
+  }
+
+  .ANcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1390px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .dog1 {
+    position: absolute;
+    right: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 50px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog2 {
+    position: absolute;
+    left: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 420px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog3 {
+    position: absolute;
+    left: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 750px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*barcos html*/
+
+  .BAfirsth1 {
+    font-size: 49px;
+    color: snow;
+    position: absolute;
+    top: 260px;
+    left: 30%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Bcertificados {
+    position: absolute;
+    color: #0092d6;
+    font-size: 23px;
+    text-align: center;
+    margin-top: 11px;
+    left: 0.5%;
+  }
+
+  .Bpatron {
+    position: absolute;
+    color: #454545;
+    font-size: 15px;
+    margin-top: 55px;
+    left: 2%;
+  }
+
+  .Bno {
+    position: absolute;
+    color: #454545;
+    font-size: 15px;
+    margin-top: 130px;
+    left: 2%;
+  }
+
+  .Bcomoes {
+    position: absolute;
+    color: #0092d6;
+    font-size: 25px;
+    margin-top: 190px;
+    text-align: center;
+    left: 1%;
+  }
+
+  .Blos {
+    position: absolute;
+    color: #454545;
+    font-size: 15px;
+    margin-top: 240px;
+    left: 2%;
+  }
+
+  .Btal {
+    position: absolute;
+    color: #454545;
+    font-size: 15px;
+    margin-top: 300px;
+    left: 2%;
+  }
+
+  .Bsi {
+    position: absolute;
+    color: #454545;
+    font-size: 15px;
+    margin-top: 380px;
+    left: 2%;
+  }
+
+  .Bsolo {
+    position: absolute;
+    color: #454545;
+    font-size: 15px;
+    margin-top: 420px;
+    left: 2%;
+  }
+
+  .Bfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 580px;
+  }
+
+  .Bcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 490px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /*buceo html*/
+
+  .BUfirsth1 {
+    font-size: 47px;
+    color: snow;
+    position: absolute;
+    top: 255px;
+    left: 35%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .BUcertificado {
+    position: absolute;
+    font-size: 25px;
+    text-align: center;
+    color: #0092d6;
+    left: 12%;
+    margin-top: 10px;
+  }
+
+  .BUrealizamos {
+  position: absolute;
+  font-size: 15px;
+  color: #454545;
+  margin-top: 105px;
+  left: 3%;
+  }
+
+  .BUnuestra {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 250px;
+    left: 2%;
+  }
+
+  .BUfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 430px;
+  }
+
+  .BUcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 350px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .ddivingsea {
+    position: absolute;
+    right: 3%;
+    width: 420px;
+    height: 253px;
+    margin-top: 60px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /* Ordinarios html */
+
+  .ordinariosUL {
+    position: absolute;
+    font-size: 17px;
+    color: #454545;
+    right: 14%;
+    margin-top: 200px;
+  }
+
+  .certificateimg {
+    position: absolute;
+    width: 30%;
+    left: 11%;
+    margin-top: 100px;
+  }
+
+  .ORcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 700px;
+  }
+
+  .ORfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 800px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .header {
+    background-color: #0092d6;
+    height: 80px;
+    width: 100%;
+  }
+
+  .loggo {
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    right: 42.5%;
+    margin-top: -49px;
+  }
+
+  .Logoh2 {
+    position: absolute;
+    right: 33%;
+    top: 26px;
+    color: white;
+    font-size: 23px;
+  }
+
+  .nextlogo {
+    position: absolute;
+    right: 41.3%;
+    top: 3px;
+    color: white;
+    font-size: 20px;
+  }
+
+  .horarios {
+    position: absolute;
+    top: 10px;
+    color: white;
+    left: 1%;
+    font-size: 13px;
+  }
+
+  .Fhorarios {
+    display: none;
+  }
+
+  .Flaborables {
+    display: none;
+  }
+
+  .Ftardes {
+    display: none;
+  }
+
+  .Fsabados {
+    display: none;
+  }
+
+  .laborables {
+    position: absolute;
+    color: white;
+    left: 8%;
+    top: 10px;
+    font-size: 13px;
+  }
+
+  .tardes {
+    position: absolute;
+    color: white;
+    top: 53px;
+    left: 8%;
+    font-size: 13px;
+  }
+
+  .sabados {
+    position: absolute;
+    color: white;
+    top: 32px;
+    left: 8%;
+    font-size: 13px;
+  }
+
+  .campamentoo {
+    position: absolute;
+    color: white;
+    right: 14%;
+    top: 35px;
+    font-size: 13px;
+  }
+
+  .metro {
+    position: absolute;
+    top: 7px;
+    width: 33px;
+    height: 23px;
+    right: 18%;
+  }
+
+  .phoneeicon {
+    position: absolute;
+    top: 7px;
+    width: 25px;
+    height: 25px;
+    right: 5%;
+  }
+
+  .pnumber {
+    position: absolute;
+    right: 1%;
+    color: white;
+    top: 63px;
+    font-size: 13px;
+  }
+
+  .Telf {
+    position: absolute;
+    color: white;
+    margin-top: 35px;
+    right: 1%;
+    font-size: 13px;
+  }
+
+  .doctorimage {
+    width: 100%;
+    height: 350px;
+    filter: brightness(80%);
+  }
+
+  #myBtn {
+    position: fixed;
+    display: none;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  #myBtnn {
+    position: fixed;
+    display: block;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  .navbar {
+  border-radius: 3px 3px 3px 3px;
+  position: absolute;
+  left: 1%;
+  top: 90px;
+  background-color: snow;
+  height: 35px;
+  width: 500px;
+  -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  z-index: 3;
+  }
+
+  .Menu_words {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  }
+
+  .Menu_words li {
+  margin-top: 10px;
+  font-size: 15px;
+  color: #0092d6;
+  cursor: pointer;
+  font-weight: bold;
+  }
+
+  .menuli:hover {
+    color: #595959;
+  }
+
+  .menuli {
+    padding-bottom: 16px;
+  }
+
+  .downarrow {
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 254px;
+    top: 14px;
+    cursor: pointer;
+  }
+
+  .hiddendiv {
+    position: absolute;
+    width: 160px;
+    height: 175px;
+    background-color: #0092d6;
+    top: 125px;
+    left: 115px;
+    border-radius: 0 0 6px 6px;
+    display: none;
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  .hiddendiv ul li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 8px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .inicio {
+    padding-left: 30px;
+  }
+
+  .Fcontacto {
+    padding-right: 30px;
+  }
+
+  .firsth1 {
+    position: absolute;
+    top: 44%;
+    left: 1%;
+    font-size: 38px;
+    color: white;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Linebetween {
+    width: 150px;
+    height: 5px;
+    background-color: #0092d6;
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    border-radius: 3px;
+  }
+
+  .somos {
+    position: absolute;
+    top: 51%;
+    left: 1%;
+    font-size: 15px;
+    color: white;
+  }
+
+  .examenh2 {
+    position: absolute;
+    left: 34%;
+    color: #0092d6;
+    margin-top: 5px;
+    font-size: 20px;
+  }
+
+  .typosdivide {
+    position: absolute;
+    width: 130px;
+    height: 2.5px;
+    background-color: gray;
+    border-radius: 10px;
+    left: 42%;
+    margin-top: 35px;
+  }
+
+  .carnet {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    margin-top: 80px;
+    left: 7.3%;
+    border-radius: 3px 60px 3px 60px;
+    cursor: pointer;
+  }
+
+  .conducir {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .carnet p {
+    position: absolute;
+    top: 75%;
+    font-size: 20px;
+    left: 12%;
+    color: snow;
+  }
+
+  .carnet:hover {
+  margin-top: 70px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .operador {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    left: 7.3%;
+    top: 770px;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .gruas {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .operador p {
+    position: absolute;
+    top: 64%;
+    font-size: 20px;
+    left: 18%;
+    color: snow;
+  }
+
+  .operador:hover {
+    top: 760px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .armas {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    margin-top: 80px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .armasimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .armas p {
+    position: absolute;
+    font-size: 20px;
+    color: snow;
+    top: 74%;
+    left: 15%;
+    text-align: center;
+  }
+
+  .armas:hover {
+    margin-top: 70px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .animales {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    top: 770px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .animalesimage {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+    height: 66.5%;
+  }
+
+  .animales p {
+    position: absolute;
+    top: 79%;
+    color: snow;
+    left: 10%;
+    font-size: 20px;
+  }
+
+  .animales:hover {
+    top: 760px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .barcos {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    margin-top: 80px;
+    left: 69.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .barcosimage {
+    width: 100%;
+    border-radius: 3px 60px 0 0;
+    height: 66.5%;
+  }
+
+  .barcos p {
+    position: absolute;
+    font-size: 20px;
+    color: snow;
+    top: 74%;
+    left: 13%;
+    text-align: center;
+  }
+
+  .barcos:hover {
+    margin-top: 70px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .buceo {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    top: 770px;
+    left: 69.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .buceoimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .buceo p {
+    position: absolute;
+    top: 79%;
+    left: 15%;
+    color: snow;
+    font-size: 20px;
+  }
+
+  .buceo:hover {
+    top: 760px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .ordinarios {
+    position: absolute;
+    width: 210px;
+    height: 210px;
+    background-color: #0092d6;
+    top: 1030px;
+    left: 38.5%;
+    border-radius: 3px 60px 3px 60px;
+  cursor: pointer;
+  }
+
+  .ordinariospic {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 60px 0 0;
+  }
+
+  .ordinarios p {
+    position: absolute;
+    top: 75%;
+    left: 25%;
+    color: snow;
+    font-size: 20px;
+  }
+
+  .ordinarios:hover {
+    top: 1020px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .divide_line {
+    position: absolute;
+    top: 1280px;
+    height: 2.5px;
+    width: 90%;
+    background-color: #cccccc;
+    left: 5%;
+  }
+
+  .Contact_div {
+    position: absolute;
+    width: 90%;
+    height: 530px;
+    top: 1755px;
+    left: 6%;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .contactmetro {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    z-index: 1;
+    top: 102px;
+    right: 24%;
+  }
+
+  .contactimage {
+    border-radius: 30px;
+    position: absolute;
+    width: 100%;
+    height: 530px;
+    top: 0%;
+    filter: brightness(80%);
+  }
+
+  .contacth3 {
+    position: absolute;
+    left: 19%;
+    color: white;
+    font-size: 23px;
+    margin-top: 5px;
+    z-index: 1;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .form_llamar {
+    position: absolute;
+    border-radius: 15px;
+    right: 30%;
+    bottom: 15px;
+    width: 250px;
+    height: 40px;
+    font-size: 30px;
+    color: white;
+    background-color: #00e034;
+    border-color: gray;
+    cursor: pointer;
+    z-index: 1;
+    border: solid 0px;
+  }
+
+  .mapspacing {
+    height: 200px;
+  }
+
+  .look {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 380px;
+    left: 30px;
+  }
+
+  .look2 {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 380px;
+    left: 160px;
+  }
+
+  .map {
+    position: absolute;
+    left: 30px;
+    top: 70px;
+  }
+
+  .location {
+    position: absolute;
+    color: snow;
+    left: 70px;
+    top: 45px;
+    z-index: 1;
+    font-size: 15px;
+  }
+
+  .metroloc {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    right: 10%;
+    top: 105px;
+    font-size: 13px;
+  }
+
+  .autobus1 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 165px;
+    right: 1%;
+    font-size: 12px;
+  }
+
+  .autobus2 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 290px;
+    right: 4%;
+    font-size: 13px;
+  }
+
+  .scndautobusp {
+    position: absolute;
+    right: 1%;
+    color: snow;
+    z-index: 1;
+    top: 230px;
+    font-size: 13px;
+  }
+
+  .contnumber {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 510px;
+    top: 446px;
+    font-size: 14px;
+  }
+
+  .contemail {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 300px;
+    top: 445px;
+    font-size: 15px;
+  }
+
+  .greenbus {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 17%;
+    top: 180px;
+  }
+
+  .bluebus1 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 17%;
+    top: 245px;
+  }
+
+  .bluebus2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 17%;
+    top: 305px;
+  }
+
+  .citaprevia {
+    position: absolute;
+    width: 200px;
+    height: 90px;
+    background-color: snow;
+    z-index: 3;
+    right: 0%;
+    top: 65%;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .cita {
+    position: absolute;
+    left: 50px;
+    font-size: 26px;
+    top: 5px;
+    color: #0092d6;
+  }
+
+  .Solicite {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    font-size: 15px;
+  }
+
+  .percent {
+    position: absolute;
+    top: 55px;
+    left: 75px;
+    font-size: 33px;
+    color: #0092d6;
+  }
+
+  .Historiah1 {
+    font-size: 65px;
+    left: 30%;
+    top: 140px;
+  }
+
+  .Historypaper {
+    width: 600px;
+    left: 75px;
+    top: 220px;
+  }
+
+  .Hfooter {
+    top: 1100px;
+  }
+
+  .h2blog {
+    position: absolute;
+    top: 1290px;
+    left: 13.4%;
+    font-size: 20px;
+    color: #636363;
+  }
+
+  .thirdline {
+    position: absolute;
+    width: 150px;
+    height: 4px;
+    background-color: #0092d6;
+    top: 1320px;
+    left: 40%;
+    border-radius: 30px;
+  }
+
+  .blogp {
+    position: absolute;
+    top: 1340px;
+    width: 50%;
+    left: 25%;
+    font-size: 17px;
+    color: #636363;
+  }
+
+  .scndblogp {
+    position: absolute;
+    top: 1515px;
+    width: 50%;
+    left: 25%;
+    font-size: 17px;
+    color: #636363;
+  }
+
+  .cumplimos {
+    position: absolute;
+    top: 1610px;
+    font-size: 17px;
+    color: #636363;
+    width: 50%;
+    left: 26%;
+  }
+
+  .footer {
+    position: absolute;
+    top: 2300px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  .enlaces {
+    position: absolute;
+    left: 44%;
+    margin-top: 10px;
+    color: snow;
+  }
+
+  .dgt {
+    position: absolute;
+    top: 35%;
+    left: 21%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .semt {
+    position: absolute;
+    right: 25%;
+    top: 35%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .designed {
+    position: absolute;
+    bottom: 6%;
+    color: snow;
+    right: 3%;
+  }
+
+  /*links here*/
+
+  .hiddendiv a {
+    color: snow;
+    text-decoration: none;
+  }
+
+  .hiddendiv a:hover {
+    color: #595959;
+  }
+
+  .historia {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .historia:hover {
+    color: #595959;
+  }
+
+  .loscentros {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .loscentros:hover {
+    color: #595959;
+  }
+
+  .contactol {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .contactol:hover {
+    color: #595959;
+  }
+
+  .start {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .start:hover {
+    color: #595959;
+  }
+
+  /*Animations */
+
+
+
+  /*conducir html */
+
+  .Driving {
+    filter: brightness(80%);
+    width: 100%;
+  }
+
+  .Cfirsth1 {
+    position: absolute;
+    color: snow;
+    font-size: 45px;
+    left: 28%;
+    top: 200px;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Clinebetween {
+    position: absolute;
+    width: 300px;
+    height: 5px;
+    background-color: #0092d6;
+    top: 250px;
+    left: 32.5%;
+    border-radius: 3px;
+  }
+
+  .girldrive{
+    position: absolute;
+    right: 23%;
+    width: 380px;
+    height: 213px;
+    margin-top: 300px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Obtencion {
+    position: absolute;
+    margin-top: 10px;
+    color: #0092d6;
+    left: 16.5%;
+    font-size: 21px;
+  }
+
+  .Te {
+    position: absolute;
+    margin-top: 60px;
+    left: 15.5%;
+    color: #454545;
+    font-size: 15px;
+  }
+
+  .obtencionUl {
+    position: absolute;
+    margin-top: 160px;
+    left: 15.5%;
+    color: #454545;
+    font-size: 15px;
+  }
+
+  .documentss {
+    position: absolute;
+    width: 380px;
+    height: 213px;
+    margin-top: 670px;
+    left: 26.5%;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Documentacion {
+    position: absolute;
+    margin-top: 550px;
+    font-size: 22px;
+    right: 31%;
+    color: #0092d6;
+  }
+
+  .DocumentacionUL {
+    position: absolute;
+    margin-top: 600px;
+    right: 24%;
+    font-size: 15px;
+    color: #454545;
+  }
+
+  .paises {
+    position: absolute;
+    margin-top: 930px;
+    left: 5%;
+    font-size: 22px;
+    color: #0092d6;
+  }
+
+  .Los {
+    margin-top: 1000px;
+    position: absolute;
+    left: 1%;
+    font-size: 16px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Gocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1360px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Cfooter {
+    position: absolute;
+    top: 1430px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  /*operadores html */
+
+  .Ggrua {
+    width: 100%;
+  }
+
+  .Ofirsth1 {
+    font-size: 45px;
+    color: snow;
+    position: absolute;
+    top: 190px;
+    left: 34%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .En {
+    position: absolute;
+    left: 1%;
+    color: #0092d6;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .desea {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 100px;
+    left: 1%;
+    text-align: center;
+  }
+
+  .Oque {
+    position: absolute;
+    font-size: 20px;
+    color: #0092d6;
+    text-align: center;
+    margin-top: 480px;
+    left: 13%;
+  }
+  .segun {
+    position: absolute;
+    margin-top: 530px;
+    font-size: 15px;
+    color: #454545;
+    left: 0.1%;
+    text-align: center;
+  }
+
+  .necesitas {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    top: 850px;
+    text-align: center;
+    left: 14%;
+  }
+
+  .Osolo {
+    position: absolute;
+    left: 18%;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 630px;
+    text-align: center;
+  }
+
+  .Ofooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 760px;
+  }
+
+  .Ocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 950px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Otorreimage {
+    position: absolute;
+    right: 22%;
+    width: 420px;
+    height: 253px;
+    margin-top: 190px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*Armas.html*/
+
+  .Aarmas {
+    width: 100%;
+  }
+
+  .Afirsth1 {
+    font-size: 38px;
+    color: snow;
+    position: absolute;
+    top: 205px;
+    left: 23%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Aobtencion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 21px;
+    left: 22%;
+    margin-top: 5px;
+  }
+
+  .AobtencionP {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    left: 21%;
+    margin-top: 55px;
+  }
+
+  .AobtencionUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    left: 22%;
+    margin-top: 180px;
+  }
+
+  .Adocumentacion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 21px;
+    left: 35%;
+    margin-top: 545px;
+  }
+
+  .AdocumentacionUL {
+    position: absolute;
+    margin-top: 585px;
+    color: #454545;
+    left: 35%;
+    font-size: 15px;
+  }
+
+  .Atipos {
+    position: absolute;
+    margin-top: 660px;
+    font-size: 21px;
+    color: #0092d6;
+    right: 32%;
+  }
+
+  .tiposp {
+    position: absolute;
+    margin-top: 700px;
+    right: 0%;
+    font-size: 15px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Acontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1335px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Huntimg {
+    position: absolute;
+    right: 21%;
+    width: 420px;
+    height: 253px;
+    margin-top: 270px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Huntpic {
+    position: absolute;
+    left: 25%;
+    width: 420px;
+    height: 253px;
+    margin-top: 770px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .ARfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1140px;
+  }
+
+  /*animales html*/
+
+  .ANfirsth1 {
+    font-size: 40px;
+    color: snow;
+    position: absolute;
+    top: 205px;
+    left: 28%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .ANobtener {
+    position: absolute;
+    font-size: 20px;
+    color: #0092d6;
+    left: 26%;
+    margin-top: 5px;
+  }
+
+  .ANla {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 45px;
+    left: 1%;
+  }
+
+  .ANa {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 180px;
+    left: 1%;
+  }
+
+  .ANdocumentacion {
+    position: absolute;
+    font-size: 20px;
+    color: #0092d6;
+    margin-top: 515px;
+    right: 21%;
+  }
+  .ANsecondUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 560px;
+    right: 10%;
+  }
+
+  #original::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  #penales::after {
+    content: "\a";
+    white-space: pre;
+  }
+
+  .ANrazas {
+    position: absolute;
+    font-size: 20px;
+    color: #0092d6;
+    margin-top: 1070px;
+    right: 18%;
+  }
+
+  .animalslink {
+    position: absolute;
+    font-size: 16px;
+    color: #454545;
+    right: 1%;
+    margin-top: 1115px;
+    text-align: center;
+  }
+
+  .ANquien {
+    position: absolute;
+    font-size: 20px;
+    color: #0092d6;
+    margin-top: 1450px;
+    right: 39%;
+  }
+
+  .ANfourthUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    margin-top: 1500px;
+    right: 26.5%;
+  }
+
+  .ANfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1650px;
+  }
+
+  .ANcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1840px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .dog1 {
+    position: absolute;
+    right: 21.5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 240px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog2 {
+    position: absolute;
+    left: 23%;
+    width: 420px;
+    height: 253px;
+    margin-top: 800px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog3 {
+    position: absolute;
+    left: 23%;
+    width: 420px;
+    height: 253px;
+    margin-top: 1175px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*barcos html*/
+
+  .BAfirsth1 {
+    font-size: 40px;
+    color: snow;
+    position: absolute;
+    top: 200px;
+    left: 22%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Bcertificados {
+    position: absolute;
+    color: #0092d6;
+    font-size: 17px;
+    text-align: center;
+    margin-top: 6px;
+    left: 0.5%;
+  }
+
+  .Bpatron {
+    position: absolute;
+    color: #454545;
+    font-size: 14px;
+    margin-top: 35px;
+    left: 2%;
+  }
+
+  .Bno {
+    position: absolute;
+    color: #454545;
+    font-size: 14px;
+    margin-top: 100px;
+    left: 2%;
+  }
+
+  .Bcomoes {
+    position: absolute;
+    color: #0092d6;
+    font-size: 18px;
+    margin-top: 170px;
+    text-align: center;
+    left: 1%;
+  }
+
+  .Blos {
+    position: absolute;
+    color: #454545;
+    font-size: 14px;
+    margin-top: 200px;
+    left: 2%;
+  }
+
+  .Btal {
+    position: absolute;
+    color: #454545;
+    font-size: 14px;
+    margin-top: 260px;
+    left: 2%;
+  }
+
+  .Bsi {
+    position: absolute;
+    color: #454545;
+    font-size: 14px;
+    margin-top: 320px;
+    left: 2%;
+  }
+
+  .Bsolo {
+    position: absolute;
+    color: #454545;
+    font-size: 14px;
+    margin-top: 345px;
+    left: 2%;
+  }
+
+  .Bfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 470px;
+  }
+
+  .Bcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 390px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /*buceo html*/
+
+  .BUfirsth1 {
+    font-size: 40px;
+    color: snow;
+    position: absolute;
+    top: 205px;
+    left: 32%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .BUcertificado {
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: #0092d6;
+    left: 35%;
+    margin-top: 7px;
+  }
+
+  .BUrealizamos {
+  position: absolute;
+  font-size: 14px;
+  color: #454545;
+  margin-top: 50px;
+  left: 9%;
+  }
+
+  .BUnuestra {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 180px;
+    left: 2%;
+  }
+
+  .BUfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 600px;
+  }
+
+  .BUcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 530px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .ddivingsea {
+    position: absolute;
+    right: 18%;
+    width: 420px;
+    height: 253px;
+    margin-top: 245px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /* Ordinarios html */
+
+  .ordinariosUL {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    right: 10%;
+    margin-top: 100px;
+  }
+
+  .certificateimg {
+    position: absolute;
+    width: 30%;
+    left: 11%;
+    margin-top: 50px;
+  }
+
+  .ORcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 430px;
+  }
+
+  .ORfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 500px;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 582px) {
+  .header {
+    background-color: #0092d6;
+    height: 60px;
+    width: 100%;
+  }
+
+  .loggo {
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    right: 42.5%;
+    margin-top: -49px;
+    display: none;
+  }
+
+  .Logoh2 {
+    position: absolute;
+    right: 29%;
+    top: 28px;
+    color: white;
+    font-size: 26px;
+  }
+
+  .nextlogo {
+    position: absolute;
+    right: 37.5%;
+    top: 1px;
+    color: white;
+    font-size: 24px;
+  }
+
+  .horarios {
+    position: absolute;
+    top: 10px;
+    color: white;
+    left: 0.5%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .laborables {
+    position: absolute;
+    color: white;
+    left: 9%;
+    top: 10px;
+    font-size: 10px;
+    display: none;
+  }
+
+  .tardes {
+    position: absolute;
+    color: white;
+    top: 50px;
+    left: 9%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .sabados {
+    position: absolute;
+    color: white;
+    top: 24px;
+    left: 9%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .campamentoo {
+    position: absolute;
+    color: white;
+    right: 14%;
+    top: 35px;
+    font-size: 13px;
+    display: none;
+  }
+
+  .metro {
+    position: absolute;
+    top: 7px;
+    width: 33px;
+    height: 23px;
+    right: 18%;
+    display: none;
+  }
+
+  .phoneeicon {
+    position: absolute;
+    top: 7px;
+    width: 25px;
+    height: 25px;
+    right: 5%;
+    display: none;
+  }
+
+  .pnumber {
+    position: absolute;
+    right: 1%;
+    color: white;
+    top: 63px;
+    font-size: 13px;
+    display: none;
+  }
+
+  .Telf {
+    position: absolute;
+    color: white;
+    margin-top: 35px;
+    right: 1%;
+    font-size: 13px;
+    display: none;
+  }
+
+  .doctorimage {
+    width: 100%;
+    height: 200px;
+    filter: brightness(80%);
+  }
+
+  #myBtn {
+    position: fixed;
+    display: none;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  #myBtnn {
+    position: fixed;
+    display: block;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  .navbar {
+    border-radius: 3px 3px 3px 3px;
+    position: absolute;
+    left: 0.5%;
+    top: 70px;
+    background-color: white;
+    height: 25px;
+    width: 466px;
+    z-index: 3;
+    display: block;
+  }
+
+  .Menu_words {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  }
+
+  .Menu_words li {
+  margin-top: 4px;
+  font-size: 15px;
+  color: #0092d6;
+  cursor: pointer;
+  font-weight: bold;
+  display: block;
+  }
+
+  .menuli:hover {
+    color: #595959;
+  }
+
+  .menuli {
+    padding-bottom: 16px;
+  }
+
+  .downarrow {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 52%;
+    top: 8px;
+    cursor: pointer;
+  }
+
+  .hiddendiv {
+    position: absolute;
+    width: 160px;
+    height: 175px;
+    background-color: #0092d6;
+    top: 95px;
+    left: 98px;
+    border-radius: 0 0 6px 6px;
+    display: none;
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  .hiddendiv ul li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 8px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .inicio {
+    padding-left: 30px;
+  }
+
+  .Fcontacto {
+    padding-right: 30px;
+  }
+
+  .firsth1 {
+    position: absolute;
+    top: 22%;
+    left: 1%;
+    font-size: 23px;
+    color: white;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Linebetween {
+    width: 100px;
+    height: 4px;
+    background-color: #0092d6;
+    position: absolute;
+    top: 29.5%;
+    left: 1%;
+    border-radius: 3px;
+  }
+
+  .somos {
+    position: absolute;
+    top: 30.5%;
+    left: 1%;
+    font-size: 11px;
+    color: white;
+  }
+
+  .examenh2 {
+    position: absolute;
+    left: 24%;
+    color: #0092d6;
+    margin-top: 4px;
+    font-size: 17px;
+  }
+
+  .typosdivide {
+    position: absolute;
+    width: 110px;
+    height: 2.5px;
+    background-color: gray;
+    border-radius: 10px;
+    left: 37%;
+    margin-top: 30px;
+  }
+
+  .carnet {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 60px;
+    left: 1%;
+    border-radius: 3px 50px 3px 50px;
+    cursor: pointer;
+  }
+
+  .conducir {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .carnet p {
+    position: absolute;
+    top: 75%;
+    font-size: 14px;
+    left: 12%;
+    color: snow;
+  }
+
+  .carnet:hover {
+  margin-top: 55px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .operador {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    left: 1%;
+    top: 500px;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .gruas {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .operador p {
+    position: absolute;
+    top: 65%;
+    font-size: 13px;
+    left: 22%;
+    color: snow;
+  }
+
+  .operador:hover {
+    top: 495px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .armas {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 60px;
+    left: 34.5%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .armasimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .armas p {
+    position: absolute;
+    font-size: 14px;
+    color: snow;
+    top: 72%;
+    left: 15%;
+    text-align: center;
+  }
+
+  .armas:hover {
+    margin-top: 55px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .animales {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 500px;
+    left: 34.5%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .animalesimage {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+    height: 66.5%;
+  }
+
+  .animales p {
+    position: absolute;
+    top: 76%;
+    color: snow;
+    left: 10%;
+    font-size: 14px;
+  }
+
+  .animales:hover {
+    top: 495px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .barcos {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 60px;
+    left: 68%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .barcosimage {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+    height: 66.5%;
+  }
+
+  .barcos p {
+    position: absolute;
+    font-size: 14px;
+    color: snow;
+    top: 72%;
+    left: 13%;
+    text-align: center;
+  }
+
+  .barcos:hover {
+    margin-top: 55px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .buceo {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 500px;
+    left: 68%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .buceoimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .buceo p {
+    position: absolute;
+    top: 76%;
+    left: 15%;
+    color: snow;
+    font-size: 14px;
+  }
+
+  .buceo:hover {
+    top: 495px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .ordinarios {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 675px;
+    left: 34.5%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .ordinariospic {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .ordinarios p {
+    position: absolute;
+    top: 73%;
+    left: 25%;
+    color: snow;
+    font-size: 14px;
+  }
+
+  .ordinarios:hover {
+    top: 670px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .divide_line {
+    position: absolute;
+    top: 850px;
+    height: 2.5px;
+    width: 90%;
+    background-color: #cccccc;
+    left: 5%;
+  }
+
+  .Contact_div {
+    position: absolute;
+    width: 95%;
+    height: 730px;
+    top: 1370px;
+    left: 2%;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+    background-color: #0092d6;
+  }
+
+  .contactmetro {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    z-index: 1;
+    top: 490px;
+    right: 57%;
+  }
+
+  .contactimage {
+    position: absolute;
+    width: 100%;
+    height: 530px;
+    top: 0%;
+    filter: brightness(80%);
+    display: none;
+  }
+
+  .contacth3 {
+    position: absolute;
+    left: 10%;
+    color: white;
+    font-size: 18px;
+    margin-top: 5px;
+    z-index: 1;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .form_llamar {
+    position: absolute;
+    border-radius: 15px;
+    right: 22%;
+    bottom: 15px;
+    width: 250px;
+    height: 40px;
+    font-size: 30px;
+    color: white;
+    background-color: #00e034;
+    border-color: gray;
+    cursor: pointer;
+    z-index: 1;
+    border: solid 0px;
+  }
+
+  .mapspacing {
+    height: 200px;
+  }
+
+  .look {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 380px;
+    left: 30px;
+  }
+
+  .look2 {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 380px;
+    left: 160px;
+  }
+
+  .map {
+    position: absolute;
+    left: 4%;
+    top: 70px;
+  }
+
+  .location {
+    position: absolute;
+    color: snow;
+    left: 70px;
+    top: 45px;
+    z-index: 1;
+    font-size: 15px;
+  }
+
+  .metroloc {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    right: 35%;
+    top: 493px;
+    font-size: 13px;
+  }
+
+  .autobus1 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 530px;
+    right: 18%;
+    font-size: 12px;
+  }
+
+  .autobus2 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 600px;
+    right: 21.5%;
+    font-size: 13px;
+  }
+
+  .scndautobusp {
+    position: absolute;
+    right: 17%;
+    color: snow;
+    z-index: 1;
+    top: 565px;
+    font-size: 13px;
+  }
+
+  .contnumber {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 50%;
+    top: 637px;
+    font-size: 14px;
+  }
+
+  .contemail {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 2%;
+    top: 637px;
+    font-size: 14px;
+  }
+
+  .greenbus {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 70%;
+    top: 523px;
+  }
+
+  .bluebus1 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 70%;
+    top: 560px;
+  }
+
+  .bluebus2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 70%;
+    top: 595px;
+  }
+
+  .metroimgp {
+    position: absolute;
+    right: 23%;
+    width: 440px;
+  }
+
+  .greenbusimgp {
+    position: absolute;
+    width: 440px;
+    right: 23%;
+  }
+
+  .bluebus1imgp {
+    position: absolute;
+    width: 440px;
+    right: 23%;
+  }
+
+  .bluebus2imgp {
+    position: absolute;
+    width: 440px;
+    right: 23%;
+  }
+
+  .citaprevia {
+    position: absolute;
+    width: 160px;
+    height: 90px;
+    background-color: snow;
+    z-index: 3;
+    right: 0%;
+    top: 65%;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .cita {
+    position: absolute;
+    left: 30px;
+    font-size: 23px;
+    top: 3px;
+    color: #0092d6;
+  }
+
+  .Solicite {
+    position: absolute;
+    top: 30px;
+    left: 5px;
+    font-size: 14px;
+  }
+
+  .percent {
+    position: absolute;
+    top: 50px;
+    left: 80px;
+    font-size: 32px;
+    color: #0092d6;
+  }
+
+  .Historiah1 {
+    font-size: 50px;
+    left: 25.5%;
+    top: 120px;
+  }
+
+  .Historypaper {
+    width: 420px;
+    left: 5%;
+    top: 180px;
+  }
+
+  .Hfooter {
+    top: 800px;
+  }
+
+  .h2blog {
+    position: absolute;
+    top: 860px;
+    left: 3%;
+    font-size: 16px;
+    color: #636363;
+  }
+
+  .thirdline {
+    position: absolute;
+    width: 130px;
+    height: 3px;
+    background-color: #0092d6;
+    top: 885px;
+    left: 35%;
+    border-radius: 30px;
+  }
+
+  .blogp {
+    position: absolute;
+    top: 910px;
+    width: 70%;
+    left: 15%;
+    font-size: 16px;
+    color: #636363;
+  }
+
+  .scndblogp {
+    position: absolute;
+    top: 1090px;
+    width: 70%;
+    left: 15%;
+    font-size: 16px;
+    color: #636363;
+  }
+
+  .cumplimos {
+    position: absolute;
+    top: 1190px;
+    font-size: 16px;
+    color: #636363;
+    width: 50%;
+    left: 24%;
+  }
+
+  .footer {
+    position: absolute;
+    top: 2150px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  .Fhorarios {
+    color: snow;
+    margin-top: 7px;
+    margin-left: 2px;
+  }
+
+  .Flaborables {
+    color: snow;
+    margin-left: 2px;
+  }
+
+  .Fsabados {
+    color: snow;
+    margin-left: 2px;
+  }
+
+  .Ftardes {
+    color: snow;
+    margin-left: 2px;
+  }
+
+  .enlaces {
+    position: absolute;
+    left: 35%;
+    margin-top: 10px;
+    color: snow;
+  }
+
+  .dgt {
+    position: absolute;
+    top: 35%;
+    left: 41%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .semt {
+    position: absolute;
+    right: 10%;
+    top: 35%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .designed {
+    position: absolute;
+    bottom: 6%;
+    color: snow;
+    right: 3%;
+  }
+
+  /*links here*/
+
+  .hiddendiv a {
+    color: snow;
+    text-decoration: none;
+  }
+
+  .hiddendiv a:hover {
+    color: #595959;
+  }
+
+  .historia {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .historia:hover {
+    color: #595959;
+  }
+
+  .loscentros {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .loscentros:hover {
+    color: #595959;
+  }
+
+  .contactol {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .contactol:hover {
+    color: #595959;
+  }
+
+  .start {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .start:hover {
+    color: #595959;
+  }
+
+  /*Animations */
+
+
+
+  /*conducir html */
+
+  .Driving {
+    filter: brightness(80%);
+    width: 100%;
+  }
+
+  .Cfirsth1 {
+    position: absolute;
+    color: snow;
+    font-size: 25px;
+    left: 28%;
+    top: 120px;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Clinebetween {
+    position: absolute;
+    width: 150px;
+    height: 4px;
+    background-color: #0092d6;
+    top: 150px;
+    left: 32.5%;
+    border-radius: 3px;
+  }
+
+  .girldrive{
+    position: absolute;
+    right: 10%;
+    width: 380px;
+    height: 213px;
+    margin-top: 290px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Obtencion {
+    position: absolute;
+    margin-top: 8px;
+    color: #0092d6;
+    left: 3%;
+    font-size: 17px;
+  }
+
+  .Te {
+    position: absolute;
+    margin-top: 40px;
+    left: 1%;
+    color: #454545;
+    font-size: 13.5px;
+  }
+
+  .obtencionUl {
+    position: absolute;
+    margin-top: 130px;
+    left: 3%;
+    color: #454545;
+    font-size: 13.5px;
+  }
+
+  .documentss {
+    position: absolute;
+    width: 380px;
+    height: 213px;
+    margin-top: 660px;
+    left: 9%;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Documentacion {
+    position: absolute;
+    margin-top: 530px;
+    font-size: 18px;
+    right: 31%;
+    color: #0092d6;
+  }
+
+  .DocumentacionUL {
+    position: absolute;
+    margin-top: 575px;
+    right: 21%;
+    font-size: 13.5px;
+    color: #454545;
+  }
+
+  .paises {
+    position: absolute;
+    margin-top: 920px;
+    left: 11%;
+    font-size: 18px;
+    color: #0092d6;
+  }
+
+  .Los {
+    margin-top: 990px;
+    position: absolute;
+    left: 1%;
+    font-size: 14px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Gocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1260px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Cfooter {
+    position: absolute;
+    top: 1330px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  /*operadores html */
+
+  .Ggrua {
+    width: 100%;
+  }
+
+  .Ofirsth1 {
+    font-size: 30px;
+    color: snow;
+    position: absolute;
+    top: 113px;
+    left: 29%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .En {
+    position: absolute;
+    left: 0.2%;
+    color: #0092d6;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .desea {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 60px;
+    left: 2%;
+    text-align: center;
+  }
+
+  .Oque {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    text-align: center;
+    margin-top: 430px;
+    left: 0%;
+  }
+  .segun {
+    position: absolute;
+    margin-top: 470px;
+    font-size: 14px;
+    color: #454545;
+    left: 0.1%;
+    text-align: center;
+  }
+
+  .necesitas {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    top: 715px;
+    text-align: center;
+    left: 0%;
+  }
+
+  .Osolo {
+    position: absolute;
+    left: 0%;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 600px;
+    text-align: center;
+  }
+
+  .Ofooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 680px;
+  }
+
+  .Ocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 950px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Otorreimage {
+    position: absolute;
+    right: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 150px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*Armas.html*/
+
+  .Aarmas {
+    width: 100%;
+  }
+
+  .Afirsth1 {
+    font-size: 26px;
+    color: snow;
+    position: absolute;
+    top: 120px;
+    left: 18%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Aobtencion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 17px;
+    left: 12%;
+    margin-top: 5px;
+  }
+
+  .AobtencionP {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    left: 5%;
+    margin-top: 55px;
+  }
+
+  .AobtencionUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    left: 6%;
+    margin-top: 170px;
+  }
+
+  .Adocumentacion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 18px;
+    left: 25%;
+    margin-top: 545px;
+  }
+
+  .AdocumentacionUL {
+    position: absolute;
+    margin-top: 585px;
+    color: #454545;
+    left: 20%;
+    font-size: 14px;
+  }
+
+  .Atipos {
+    position: absolute;
+    margin-top: 660px;
+    font-size: 18px;
+    color: #0092d6;
+    right: 32%;
+  }
+
+  .tiposp {
+    position: absolute;
+    margin-top: 700px;
+    right: 14%;
+    font-size: 14px;
+    color: #454545;
+  }
+
+  .Acontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1240px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Huntimg {
+    position: absolute;
+    right: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 270px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Huntpic {
+    position: absolute;
+    left: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 770px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .ARfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1140px;
+  }
+
+  /*animales html*/
+
+  .ANfirsth1 {
+    font-size: 27px;
+    color: snow;
+    position: absolute;
+    top: 120px;
+    left: 25%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .ANobtener {
+    position: absolute;
+    font-size: 17px;
+    color: #0092d6;
+    left: 15%;
+    margin-top: 5px;
+  }
+
+  .ANla {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 40px;
+    left: 3%;
+  }
+
+  .ANa {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 166px;
+    left: 3%;
+  }
+
+  .ANdocumentacion {
+    position: absolute;
+    font-size: 17px;
+    color: #0092d6;
+    margin-top: 515px;
+    right: 14%;
+  }
+  .ANsecondUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 550px;
+    right: 5%;
+  }
+
+  .ANrazas {
+    position: absolute;
+    font-size: 17px;
+    color: #0092d6;
+    margin-top: 1070px;
+    right: 9%;
+  }
+
+  .animalslink {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    right: 5%;
+    margin-top: 1115px;
+    text-align: center;
+  }
+
+  .ANquien {
+    position: absolute;
+    font-size: 18px;
+    color: #0092d6;
+    margin-top: 1450px;
+    right: 39%;
+  }
+
+  .ANfourthUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 1500px;
+    right: 26.5%;
+  }
+
+  .ANfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1650px;
+  }
+
+  .ANcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1760px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .dog1 {
+    position: absolute;
+    right: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 240px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog2 {
+    position: absolute;
+    left: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 800px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog3 {
+    position: absolute;
+    left: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 1175px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*barcos html*/
+
+  .BAfirsth1 {
+    font-size: 27px;
+    color: snow;
+    position: absolute;
+    top: 120px;
+    left: 20%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Bcertificados {
+    position: absolute;
+    color: #0092d6;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 6px;
+    left: 0%;
+  }
+
+  .Bpatron {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 45px;
+    left: 2%;
+  }
+
+  .Bno {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 130px;
+    left: 2%;
+  }
+
+  .Bcomoes {
+    position: absolute;
+    color: #0092d6;
+    font-size: 16px;
+    margin-top: 200px;
+    text-align: center;
+    left: 1%;
+  }
+
+  .Blos {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 240px;
+    left: 2%;
+  }
+
+  .Btal {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 305px;
+    left: 2%;
+  }
+
+  .Bsi {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 388px;
+    left: 2%;
+  }
+
+  .Bsolo {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 425px;
+    left: 2%;
+  }
+
+  .Bfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 550px;
+  }
+
+  .Bcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 470px;
+    left: 27%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /*buceo html*/
+
+  .BUfirsth1 {
+    font-size: 27px;
+    color: snow;
+    position: absolute;
+    top: 120px;
+    left: 28%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .BUcertificado {
+    position: absolute;
+    font-size: 17px;
+    text-align: center;
+    color: #0092d6;
+    left: 28%;
+    margin-top: 5px;
+  }
+
+  .BUrealizamos {
+  position: absolute;
+  font-size: 13px;
+  color: #454545;
+  margin-top: 30px;
+  left: 3%;
+  }
+
+  .BUnuestra {
+    position: absolute;
+    font-size: 13px;
+    color: #454545;
+    margin-top: 150px;
+    left: 3%;
+  }
+
+  .BUfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 600px;
+  }
+
+  .BUcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 530px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .ddivingsea {
+    position: absolute;
+    right: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 245px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /* Ordinarios html */
+
+  .ordinariosUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    right: 1%;
+    margin-top: 100px;
+  }
+
+  .certificateimg {
+    position: absolute;
+    width: 30%;
+    left: 5%;
+    margin-top: 30px;
+  }
+
+  .ORcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 430px;
+  }
+
+  .ORfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 500px;
+  }
+}
+
+@media screen and (min-width: 582px) and (max-width: 768px) {
+  .header {
+    background-color: #0092d6;
+    height: 60px;
+    width: 100%;
+  }
+
+  .loggo {
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    right: 42.5%;
+    margin-top: -49px;
+    display: none;
+  }
+
+  .Logoh2 {
+    position: absolute;
+    right: 32%;
+    top: 25px;
+    color: white;
+    font-size: 26px;
+  }
+
+  .nextlogo {
+    position: absolute;
+    right: 40.3%;
+    top: 1px;
+    color: white;
+    font-size: 23px;
+  }
+
+  .horarios {
+    position: absolute;
+    top: 10px;
+    color: white;
+    left: 0.5%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .laborables {
+    position: absolute;
+    color: white;
+    left: 9%;
+    top: 10px;
+    font-size: 10px;
+    display: none;
+  }
+
+  .tardes {
+    position: absolute;
+    color: white;
+    top: 50px;
+    left: 9%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .sabados {
+    position: absolute;
+    color: white;
+    top: 24px;
+    left: 9%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .campamentoo {
+    position: absolute;
+    color: white;
+    right: 14%;
+    top: 35px;
+    font-size: 13px;
+    display: none;
+  }
+
+  .metro {
+    position: absolute;
+    top: 7px;
+    width: 33px;
+    height: 23px;
+    right: 18%;
+    display: none;
+  }
+
+  .phoneeicon {
+    position: absolute;
+    top: 7px;
+    width: 25px;
+    height: 25px;
+    right: 5%;
+    display: none;
+  }
+
+  .pnumber {
+    position: absolute;
+    right: 1%;
+    color: white;
+    top: 63px;
+    font-size: 13px;
+    display: none;
+  }
+
+  .Telf {
+    position: absolute;
+    color: white;
+    margin-top: 35px;
+    right: 1%;
+    font-size: 13px;
+    display: none;
+  }
+
+  .doctorimage {
+    width: 100%;
+    height: 250px;
+    filter: brightness(80%);
+  }
+
+  #myBtn {
+    position: fixed;
+    display: none;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  #myBtnn {
+    position: fixed;
+    display: block;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  .navbar {
+    border-radius: 3px 3px 3px 3px;
+    position: absolute;
+    left: 1%;
+    top: 72px;
+    background-color: white;
+    height: 25px;
+    width: 466px;
+    z-index: 3;
+    display: block;
+  }
+
+  .Menu_words {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+  }
+
+  .Menu_words li {
+  margin-top: 4px;
+  font-size: 15px;
+  color: #0092d6;
+  cursor: pointer;
+  font-weight: bold;
+  display: block;
+  }
+
+  .menuli:hover {
+    color: #595959;
+  }
+
+  .menuli {
+    padding-bottom: 16px;
+  }
+
+  .downarrow {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 52%;
+    top: 8px;
+    cursor: pointer;
+  }
+
+  .hiddendiv {
+    position: absolute;
+    width: 160px;
+    height: 175px;
+    background-color: #0092d6;
+    top: 97px;
+    left: 98px;
+    border-radius: 0 0 6px 6px;
+    display: none;
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  .hiddendiv ul li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 8px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    text-align: center;
+    font-size: 13px;
+  }
+
+  .inicio {
+    padding-left: 30px;
+  }
+
+  .Fcontacto {
+    padding-right: 30px;
+  }
+
+  .firsth1 {
+    position: absolute;
+    top: 27.4%;
+    left: 1%;
+    font-size: 23px;
+    color: white;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Linebetween {
+    width: 100px;
+    height: 4px;
+    background-color: #0092d6;
+    position: absolute;
+    top: 35%;
+    left: 1%;
+    border-radius: 3px;
+  }
+
+  .somos {
+    position: absolute;
+    top: 36.1%;
+    left: 1%;
+    font-size: 13px;
+    color: white;
+  }
+
+  .examenh2 {
+    position: absolute;
+    left: 29%;
+    color: #0092d6;
+    margin-top: 4px;
+    font-size: 17px;
+  }
+
+  .typosdivide {
+    position: absolute;
+    width: 110px;
+    height: 2.5px;
+    background-color: gray;
+    border-radius: 10px;
+    left: 39%;
+    margin-top: 30px;
+  }
+
+  .carnet {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 60px;
+    left: 7%;
+    border-radius: 3px 50px 3px 50px;
+    cursor: pointer;
+  }
+
+  .conducir {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .carnet p {
+    position: absolute;
+    top: 75%;
+    font-size: 14px;
+    left: 12%;
+    color: snow;
+  }
+
+  .carnet:hover {
+  margin-top: 55px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .operador {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    left: 7%;
+    top: 550px;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .gruas {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .operador p {
+    position: absolute;
+    top: 65%;
+    font-size: 13px;
+    left: 22%;
+    color: snow;
+  }
+
+  .operador:hover {
+    top: 545px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .armas {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 60px;
+    left: 37.4%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .armasimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .armas p {
+    position: absolute;
+    font-size: 14px;
+    color: snow;
+    top: 72%;
+    left: 15%;
+    text-align: center;
+  }
+
+  .armas:hover {
+    margin-top: 55px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .animales {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 550px;
+    left: 37.4%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .animalesimage {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+    height: 66.5%;
+  }
+
+  .animales p {
+    position: absolute;
+    top: 76%;
+    color: snow;
+    left: 10%;
+    font-size: 14px;
+  }
+
+  .animales:hover {
+    top: 545px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .barcos {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 60px;
+    left: 68%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .barcosimage {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+    height: 66.5%;
+  }
+
+  .barcos p {
+    position: absolute;
+    font-size: 14px;
+    color: snow;
+    top: 72%;
+    left: 13%;
+    text-align: center;
+  }
+
+  .barcos:hover {
+    margin-top: 55px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .buceo {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 550px;
+    left: 68%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .buceoimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .buceo p {
+    position: absolute;
+    top: 76%;
+    left: 15%;
+    color: snow;
+    font-size: 14px;
+  }
+
+  .buceo:hover {
+    top: 545px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .ordinarios {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 727px;
+    left: 37.4%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .ordinariospic {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .ordinarios p {
+    position: absolute;
+    top: 73%;
+    left: 25%;
+    color: snow;
+    font-size: 14px;
+  }
+
+  .ordinarios:hover {
+    top: 722px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .divide_line {
+    position: absolute;
+    top: 890px;
+    height: 2.5px;
+    width: 90%;
+    background-color: #cccccc;
+    left: 5%;
+  }
+
+  .Contact_div {
+    position: absolute;
+    width: 95%;
+    height: 730px;
+    top: 1290px;
+    left: 2%;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+    background-color: #0092d6;
+  }
+
+  .contactmetro {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    z-index: 1;
+    top: 490px;
+    right: 57%;
+  }
+
+  .contactimage {
+    position: absolute;
+    width: 100%;
+    height: 530px;
+    top: 0%;
+    filter: brightness(80%);
+    display: none;
+  }
+
+  .contacth3 {
+    position: absolute;
+    left: 10%;
+    color: white;
+    font-size: 18px;
+    margin-top: 5px;
+    z-index: 1;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .form_llamar {
+    position: absolute;
+    border-radius: 15px;
+    right: 22%;
+    bottom: 15px;
+    width: 250px;
+    height: 40px;
+    font-size: 30px;
+    color: white;
+    background-color: #00e034;
+    border-color: gray;
+    cursor: pointer;
+    z-index: 1;
+    border: solid 0px;
+  }
+
+  .mapspacing {
+    height: 200px;
+  }
+
+  .look {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 380px;
+    left: 30px;
+  }
+
+  .look2 {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 380px;
+    left: 160px;
+  }
+
+  .map {
+    position: absolute;
+    left: 4%;
+    top: 70px;
+  }
+
+  .location {
+    position: absolute;
+    color: snow;
+    left: 70px;
+    top: 45px;
+    z-index: 1;
+    font-size: 15px;
+  }
+
+  .metroloc {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    right: 35%;
+    top: 493px;
+    font-size: 13px;
+  }
+
+  .autobus1 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 530px;
+    right: 18%;
+    font-size: 12px;
+  }
+
+  .autobus2 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 600px;
+    right: 21.5%;
+    font-size: 13px;
+  }
+
+  .scndautobusp {
+    position: absolute;
+    right: 17%;
+    color: snow;
+    z-index: 1;
+    top: 565px;
+    font-size: 13px;
+  }
+
+  .contnumber {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 50%;
+    top: 637px;
+    font-size: 14px;
+  }
+
+  .contemail {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 5%;
+    top: 637px;
+    font-size: 14px;
+  }
+
+  .greenbus {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 70%;
+    top: 523px;
+  }
+
+  .bluebus1 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 70%;
+    top: 560px;
+  }
+
+  .bluebus2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 70%;
+    top: 595px;
+  }
+
+  .metroimgp {
+    position: absolute;
+    right: 32%;
+    width: 440px;
+  }
+
+  .greenbusimgp {
+    position: absolute;
+    width: 440px;
+    right: 32%;
+  }
+
+  .bluebus1imgp {
+    position: absolute;
+    width: 440px;
+    right: 32%;
+  }
+
+  .bluebus2imgp {
+    position: absolute;
+    width: 440px;
+    right: 32%;
+  }
+
+  .citaprevia {
+    position: absolute;
+    width: 220px;
+    height: 100px;
+    background-color: snow;
+    z-index: 3;
+    right: 0%;
+    top: 65%;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .cita {
+    position: absolute;
+    left: 50px;
+    font-size: 27px;
+    top: 5px;
+    color: #0092d6;
+  }
+
+  .Solicite {
+    position: absolute;
+    top: 35px;
+    left: 5px;
+    font-size: 16px;
+  }
+
+  .percent {
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    font-size: 35px;
+    color: #0092d6;
+  }
+
+  .Historiah1 {
+    font-size: 60px;
+    left: 29%;
+    top: 120px;
+  }
+
+  .Historypaper {
+    width: 500px;
+    left: 5%;
+    top: 200px;
+  }
+
+  .Hfooter {
+    top: 900px;
+  }
+
+  .h2blog {
+    position: absolute;
+    top: 903px;
+    left: 10%;
+    font-size: 16px;
+    color: #636363;
+  }
+
+  .thirdline {
+    position: absolute;
+    width: 130px;
+    height: 3px;
+    background-color: #0092d6;
+    top: 928px;
+    left: 35%;
+    border-radius: 30px;
+  }
+
+  .blogp {
+    position: absolute;
+    top: 940px;
+    width: 70%;
+    left: 15%;
+    font-size: 16px;
+    color: #636363;
+  }
+
+  .scndblogp {
+    position: absolute;
+    top: 1080px;
+    width: 70%;
+    left: 15%;
+    font-size: 16px;
+    color: #636363;
+  }
+
+  .cumplimos {
+    position: absolute;
+    top: 1150px;
+    font-size: 16px;
+    color: #636363;
+    width: 50%;
+    left: 24%;
+  }
+
+  .footer {
+    position: absolute;
+    top: 2050px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  .Fhorarios {
+    color: snow;
+    margin-top: 5px;
+    margin-left: 2px;
+  }
+
+  .Flaborables {
+    color: snow;
+    margin-left: 2px;
+  }
+
+  .Ftardes {
+    color: snow;
+    margin-left: 2px;
+  }
+
+  .Fsabados {
+    color: snow;
+    margin-left: 2px;
+  }
+
+  .enlaces {
+    position: absolute;
+    left: 40%;
+    margin-top: 10px;
+    color: snow;
+  }
+
+  .dgt {
+    position: absolute;
+    top: 35%;
+    left: 45%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .semt {
+    position: absolute;
+    right: 10%;
+    top: 35%;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .designed {
+    position: absolute;
+    bottom: 6%;
+    color: snow;
+    right: 3%;
+  }
+
+  /*links here*/
+
+  .hiddendiv a {
+    color: snow;
+    text-decoration: none;
+  }
+
+  .hiddendiv a:hover {
+    color: #595959;
+  }
+
+  .historia {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .historia:hover {
+    color: #595959;
+  }
+
+  .loscentros {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .loscentros:hover {
+    color: #595959;
+  }
+
+  .contactol {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .contactol:hover {
+    color: #595959;
+  }
+
+  .start {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .start:hover {
+    color: #595959;
+  }
+
+  /*Animations */
+
+
+
+  /*conducir html */
+
+  .Driving {
+    filter: brightness(80%);
+    width: 100%;
+  }
+
+  .Cfirsth1 {
+    position: absolute;
+    color: snow;
+    font-size: 25px;
+    left: 28%;
+    top: 150px;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Clinebetween {
+    position: absolute;
+    width: 150px;
+    height: 4px;
+    background-color: #0092d6;
+    top: 180px;
+    left: 32.5%;
+    border-radius: 3px;
+  }
+
+  .girldrive{
+    position: absolute;
+    right: 20%;
+    width: 380px;
+    height: 213px;
+    margin-top: 290px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Obtencion {
+    position: absolute;
+    margin-top: 8px;
+    color: #0092d6;
+    left: 7%;
+    font-size: 17px;
+  }
+
+  .Te {
+    position: absolute;
+    margin-top: 40px;
+    left: 5%;
+    color: #454545;
+    font-size: 13.5px;
+  }
+
+  .obtencionUl {
+    position: absolute;
+    margin-top: 130px;
+    left: 6%;
+    color: #454545;
+    font-size: 13.5px;
+  }
+
+  .documentss {
+    position: absolute;
+    width: 380px;
+    height: 213px;
+    margin-top: 660px;
+    left: 15%;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Documentacion {
+    position: absolute;
+    margin-top: 530px;
+    font-size: 18px;
+    right: 31%;
+    color: #0092d6;
+  }
+
+  .DocumentacionUL {
+    position: absolute;
+    margin-top: 575px;
+    right: 21%;
+    font-size: 13.5px;
+    color: #454545;
+  }
+
+  .paises {
+    position: absolute;
+    margin-top: 920px;
+    left: 16%;
+    font-size: 18px;
+    color: #0092d6;
+  }
+
+  .Los {
+    margin-top: 990px;
+    position: absolute;
+    left: 1%;
+    font-size: 14px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Gocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1260px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Cfooter {
+    position: absolute;
+    top: 1330px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  /*operadores html */
+
+  .Ggrua {
+    width: 100%;
+  }
+
+  .Ofirsth1 {
+    font-size: 30px;
+    color: snow;
+    position: absolute;
+    top: 143px;
+    left: 29%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .En {
+    position: absolute;
+    left: 7%;
+    color: #0092d6;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .desea {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 60px;
+    left: 8%;
+    text-align: center;
+  }
+
+  .Oque {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    text-align: center;
+    margin-top: 430px;
+    left: 7%;
+  }
+  .segun {
+    position: absolute;
+    margin-top: 470px;
+    font-size: 14px;
+    color: #454545;
+    left: 0.1%;
+    text-align: center;
+  }
+
+  .necesitas {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    top: 745px;
+    text-align: center;
+    left: 4%;
+  }
+
+  .Osolo {
+    position: absolute;
+    left: 4%;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 600px;
+    text-align: center;
+  }
+
+  .Ofooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 680px;
+  }
+
+  .Ocontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 950px;
+    left: 41%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Otorreimage {
+    position: absolute;
+    right: 15%;
+    width: 420px;
+    height: 253px;
+    margin-top: 150px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*Armas.html*/
+
+  .Aarmas {
+    width: 100%;
+  }
+
+  .Afirsth1 {
+    font-size: 26px;
+    color: snow;
+    position: absolute;
+    top: 150px;
+    left: 18%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Aobtencion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 17px;
+    left: 16%;
+    margin-top: 5px;
+  }
+
+  .AobtencionP {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    left: 10%;
+    margin-top: 55px;
+  }
+
+  .AobtencionUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    left: 11%;
+    margin-top: 170px;
+  }
+
+  .Adocumentacion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 18px;
+    left: 30%;
+    margin-top: 545px;
+  }
+
+  .AdocumentacionUL {
+    position: absolute;
+    margin-top: 585px;
+    color: #454545;
+    left: 25%;
+    font-size: 14px;
+  }
+
+  .Atipos {
+    position: absolute;
+    margin-top: 660px;
+    font-size: 18px;
+    color: #0092d6;
+    right: 32%;
+  }
+
+  .tiposp {
+    position: absolute;
+    margin-top: 700px;
+    right: 14%;
+    font-size: 14px;
+    color: #454545;
+  }
+
+  .Acontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1265px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Huntimg {
+    position: absolute;
+    right: 15%;
+    width: 420px;
+    height: 253px;
+    margin-top: 270px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Huntpic {
+    position: absolute;
+    left: 15%;
+    width: 420px;
+    height: 253px;
+    margin-top: 770px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .ARfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1140px;
+  }
+
+  /*animales html*/
+
+  .ANfirsth1 {
+    font-size: 27px;
+    color: snow;
+    position: absolute;
+    top: 150px;
+    left: 25%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .ANobtener {
+    position: absolute;
+    font-size: 17px;
+    color: #0092d6;
+    left: 18%;
+    margin-top: 5px;
+  }
+
+  .ANla {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 40px;
+    left: 10%;
+  }
+
+  .ANa {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 166px;
+    left: 10%;
+  }
+
+  .ANdocumentacion {
+    position: absolute;
+    font-size: 17px;
+    color: #0092d6;
+    margin-top: 515px;
+    right: 20%;
+  }
+  .ANsecondUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 550px;
+    right: 15%;
+  }
+
+  .ANrazas {
+    position: absolute;
+    font-size: 17px;
+    color: #0092d6;
+    margin-top: 1070px;
+    right: 18%;
+  }
+
+  .animalslink {
+    position: absolute;
+    font-size: 15px;
+    color: #454545;
+    right: 14%;
+    margin-top: 1115px;
+    text-align: center;
+  }
+
+  .ANquien {
+    position: absolute;
+    font-size: 18px;
+    color: #0092d6;
+    margin-top: 1450px;
+    right: 39%;
+  }
+
+  .ANfourthUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    margin-top: 1500px;
+    right: 26.5%;
+  }
+
+  .ANfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1650px;
+  }
+
+  .ANcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    top: 1760px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .dog1 {
+    position: absolute;
+    right: 15%;
+    width: 420px;
+    height: 253px;
+    margin-top: 240px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog2 {
+    position: absolute;
+    left: 15%;
+    width: 420px;
+    height: 253px;
+    margin-top: 800px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog3 {
+    position: absolute;
+    left: 15%;
+    width: 420px;
+    height: 253px;
+    margin-top: 1175px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*barcos html*/
+
+  .BAfirsth1 {
+    font-size: 27px;
+    color: snow;
+    position: absolute;
+    top: 150px;
+    left: 20%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Bcertificados {
+    position: absolute;
+    color: #0092d6;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 6px;
+    left: 0%;
+  }
+
+  .Bpatron {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 45px;
+    left: 2%;
+  }
+
+  .Bno {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 130px;
+    left: 2%;
+  }
+
+  .Bcomoes {
+    position: absolute;
+    color: #0092d6;
+    font-size: 16px;
+    margin-top: 200px;
+    text-align: center;
+    left: 1%;
+  }
+
+  .Blos {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 240px;
+    left: 2%;
+  }
+
+  .Btal {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 305px;
+    left: 2%;
+  }
+
+  .Bsi {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 388px;
+    left: 2%;
+  }
+
+  .Bsolo {
+    position: absolute;
+    color: #454545;
+    font-size: 13px;
+    margin-top: 425px;
+    left: 2%;
+  }
+
+  .Bfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 550px;
+  }
+
+  .Bcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 470px;
+    left: 27%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /*buceo html*/
+
+  .BUfirsth1 {
+    font-size: 27px;
+    color: snow;
+    position: absolute;
+    top: 120px;
+    left: 28%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .BUcertificado {
+    position: absolute;
+    font-size: 17px;
+    text-align: center;
+    color: #0092d6;
+    left: 28%;
+    margin-top: 5px;
+  }
+
+  .BUrealizamos {
+  position: absolute;
+  font-size: 13px;
+  color: #454545;
+  margin-top: 30px;
+  left: 3%;
+  }
+
+  .BUnuestra {
+    position: absolute;
+    font-size: 13px;
+    color: #454545;
+    margin-top: 150px;
+    left: 3%;
+  }
+
+  .BUfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 600px;
+  }
+
+  .BUcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    margin-top: 530px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .ddivingsea {
+    position: absolute;
+    right: 5%;
+    width: 420px;
+    height: 253px;
+    margin-top: 245px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /* Ordinarios html */
+
+  .ordinariosUL {
+    position: absolute;
+    font-size: 14px;
+    color: #454545;
+    right: 1%;
+    margin-top: 100px;
+  }
+
+  .certificateimg {
+    position: absolute;
+    width: 30%;
+    left: 5%;
+    margin-top: 30px;
+  }
+
+  .ORcontact {
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 30%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 430px;
+  }
+
+  .ORfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 500px;
+  }
+}
+
+@media screen and (min-width: 320px) and (max-width: 480px) {
+  .header {
+    background-color: #0092d6;
+    height: 60px;
+    width: 100%;
+  }
+
+  .burgermenu {
+    position: absolute;
+    width: 38px;
+    height: 35px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    left: 1.8%;
+    top: 14px;
+    cursor: pointer;
+  }
+
+  .burger1 {
+    width: 90%;
+    height: 4px;
+    background-color: white;
+    border-radius: 3px 3px 3px 3px;
+  }
+
+  .burger2 {
+    width: 90%;
+    height: 4px;
+    background-color: white;
+    border-radius: 3px 3px 3px 3px;
+  }
+
+  .burger3 {
+    width: 90%;
+    height: 4px;
+    background-color: white;
+    border-radius: 3px 3px 3px 3px;
+  }
+
+  .loggo {
+    position: absolute;
+    width: 240px;
+    height: 320px;
+    right: 42.5%;
+    margin-top: -49px;
+    display: none;
+  }
+
+  .Logoh2 {
+    position: absolute;
+    right: 20%;
+    top: 26px;
+    color: white;
+    font-size: 22px;
+  }
+
+  .nextlogo {
+    position: absolute;
+    right: 35.5%;
+    top: 5px;
+    color: white;
+    font-size: 18px;
+  }
+
+  .horarios {
+    position: absolute;
+    top: 10px;
+    color: white;
+    left: 0.5%;
+    font-size: 10px;
+    display: none;
+  }
+
+
+  .laborables {
+    position: absolute;
+    color: white;
+    left: 9%;
+    top: 10px;
+    font-size: 10px;
+    display: none;
+  }
+
+  .tardes {
+    position: absolute;
+    color: white;
+    top: 50px;
+    left: 9%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .sabados {
+    position: absolute;
+    color: white;
+    top: 24px;
+    left: 9%;
+    font-size: 10px;
+    display: none;
+  }
+
+  .campamentoo {
+    position: absolute;
+    color: white;
+    right: 14%;
+    top: 35px;
+    font-size: 13px;
+    display: none;
+  }
+
+  .metro {
+    position: absolute;
+    top: 7px;
+    width: 33px;
+    height: 23px;
+    right: 18%;
+    display: none;
+  }
+
+  .phoneeicon {
+    position: absolute;
+    top: 7px;
+    width: 25px;
+    height: 25px;
+    right: 5%;
+    display: none;
+  }
+
+  .pnumber {
+    position: absolute;
+    right: 1%;
+    color: white;
+    top: 63px;
+    font-size: 13px;
+    display: none;
+  }
+
+  .Telf {
+    position: absolute;
+    color: white;
+    margin-top: 35px;
+    right: 1%;
+    font-size: 13px;
+    display: none;
+  }
+
+  .doctorimage {
+    width: 100%;
+    height: 150px;
+    filter: brightness(80%);
+  }
+
+  #myBtn {
+    position: fixed;
+    display: none;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  #myBtnn {
+    position: fixed;
+    display: block;
+    width: 35px;
+    height: 35px;
+    top: 70%;
+    left: 2%;
+    z-index: 5;
+  }
+
+  .navbar {
+    border-radius: 0 0 3px 0;
+    position: absolute;
+    left: 0%;
+    top: 60px;
+    background-color: white;
+    height: 300px;
+    width: 151px;
+    z-index: 3;
+    display: none;
+    border: solid gray 1px;
+  }
+
+  .Menu_words {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  list-style-type: none;
+  }
+
+  .Menu_words li {
+  margin-top: 15px;
+  font-size: 13px;
+  color: #0092d6;
+  cursor: pointer;
+  font-weight: bold;
+  }
+
+  .menuli:hover {
+    color: #595959;
+  }
+
+  .menuli {
+    padding-bottom: 16px;
+    left: 10px;
+  }
+
+  .downarrow {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 84%;
+    top: 76px;
+    cursor: pointer;
+    transform: rotate(-90deg);
+    display: none;
+  }
+
+  .inicio {
+    padding-top: 12px;
+    padding-left: 10px;
+  }
+
+  .inicio2 {
+    padding-left: 10px;
+  }
+
+  .inicio3 {
+    padding-left: 10px;
+  }
+
+.inicio4 {
+  padding-left: 10px;
+}
+
+  .hiddendiv {
+    position: absolute;
+    width: 140px;
+    height: 165px;
+    background-color: #0092d6;
+    top: 130px;
+    left: 151px;
+    border-radius: 0 6px 6px 0;
+    display: none;
+    transition: 0.5s;
+    z-index: 3;
+  }
+
+  .hiddendiv ul li {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: space-around;
+    margin-top: 8px;
+    color: white;
+    cursor: pointer;
+    display: none;
+    text-align: center;
+    font-size: 11.5px;
+  }
+
+  .Fcontacto {
+    padding-right: 30px;
+  }
+
+  .firsth1 {
+    position: absolute;
+    top: 13.7%;
+    left: 1%;
+    font-size: 19px;
+    color: white;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Linebetween {
+    width: 50px;
+    height: 3px;
+    background-color: #0092d6;
+    position: absolute;
+    top: 19.5%;
+    left: 1%;
+    border-radius: 3px;
+  }
+
+  .somos {
+    position: absolute;
+    top: 20%;
+    left: 1.5%;
+    font-size: 11px;
+    color: white;
+  }
+
+  .examenh2 {
+    position: absolute;
+    left: 19%;
+    color: #0092d6;
+    margin-top: 2px;
+    font-size: 15px;
+  }
+
+  .typosdivide {
+    position: absolute;
+    width: 100px;
+    height: 2.5px;
+    background-color: gray;
+    border-radius: 10px;
+    left: 36%;
+    margin-top: 20px;
+  }
+
+  .carnet {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 45px;
+    left: 3%;
+    border-radius: 3px 50px 3px 50px;
+    cursor: pointer;
+  }
+
+  .conducir {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .carnet p {
+    position: absolute;
+    top: 75%;
+    font-size: 14px;
+    left: 12%;
+    color: snow;
+  }
+
+  .carnet:hover {
+  margin-top: 41px;
+  transition-duration: 0.3s;
+  -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .operador {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    left: 3%;
+    top: 427px;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .gruas {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .operador p {
+    position: absolute;
+    top: 65%;
+    font-size: 13px;
+    left: 22%;
+    color: snow;
+  }
+
+  .operador:hover {
+    top: 423px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .armas {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 45px;
+    left: 51%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .armasimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .armas p {
+    position: absolute;
+    font-size: 14px;
+    color: snow;
+    top: 72%;
+    left: 15%;
+    text-align: center;
+  }
+
+  .armas:hover {
+    margin-top: 41px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .animales {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 593px;
+    left: 3%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .animalesimage {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+    height: 66.5%;
+  }
+
+  .animales p {
+    position: absolute;
+    top: 76%;
+    color: snow;
+    left: 10%;
+    font-size: 14px;
+  }
+
+  .animales:hover {
+    top: 589px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .barcos {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    margin-top: 215px;
+    left: 51%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .barcosimage {
+    width: 100%;
+    border-radius: 3px 50px 0 0;
+    height: 66.5%;
+  }
+
+  .barcos p {
+    position: absolute;
+    font-size: 14px;
+    color: snow;
+    top: 72%;
+    left: 13%;
+    text-align: center;
+  }
+
+  .barcos:hover {
+    margin-top: 211px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .buceo {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 593px;
+    left: 50.8%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .buceoimage {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .buceo p {
+    position: absolute;
+    top: 76%;
+    left: 15%;
+    color: snow;
+    font-size: 14px;
+  }
+
+  .buceo:hover {
+    top: 589px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .ordinarios {
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    background-color: #0092d6;
+    top: 760px;
+    left: 29%;
+    border-radius: 3px 50px 3px 50px;
+  cursor: pointer;
+  }
+
+  .ordinariospic {
+    width: 100%;
+    height: 66.5%;
+    border-radius: 3px 50px 0 0;
+  }
+
+  .ordinarios p {
+    position: absolute;
+    top: 73%;
+    left: 25%;
+    color: snow;
+    font-size: 14px;
+  }
+
+  .ordinarios:hover {
+    top: 756px;
+    transition-duration: 0.3s;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0,0,0,0);
+  }
+
+  .divide_line {
+    position: absolute;
+    top: 915px;
+    height: 2.5px;
+    width: 90%;
+    background-color: #cccccc;
+    left: 5%;
+  }
+
+  .Contact_div {
+    position: absolute;
+    width: 95%;
+    height: 800px;
+    top: 1475px;
+    left: 2%;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+    background-color: #0092d6;
+  }
+
+  .contactmetro {
+    position: absolute;
+    width: 30px;
+    height: 20px;
+    z-index: 1;
+    top: 490px;
+    right: 34.5%;
+  }
+
+  .contactimage {
+    position: absolute;
+    width: 100%;
+    height: 530px;
+    top: 0%;
+    filter: brightness(80%);
+    display: none;
+  }
+
+  .contacth3 {
+    position: absolute;
+    left: 4%;
+    color: white;
+    font-size: 14px;
+    margin-top: 15px;
+    z-index: 1;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+    text-align: center;
+  }
+
+  .form_llamar {
+    position: absolute;
+    border-radius: 15px;
+    right: 18%;
+    bottom: 10px;
+    width: 200px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: #00e034;
+    border-color: gray;
+    cursor: pointer;
+    z-index: 1;
+    border: solid 0px;
+  }
+
+  .mapspacing {
+    height: 200px;
+  }
+
+  .look {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 378px;
+    left: 10px;
+  }
+
+  .look2 {
+    position: absolute;
+    width: 125px;
+    height: 75px;
+    top: 378px;
+    left: 140px;
+  }
+
+  .map {
+    position: absolute;
+    left: 4%;
+    top: 70px;
+    width: 265px;
+  }
+
+  .location {
+    position: absolute;
+    color: snow;
+    left: 60px;
+    top: 50px;
+    z-index: 1;
+    font-size: 13px;
+  }
+
+  .metroloc {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    right: 16%;
+    top: 493px;
+    font-size: 11px;
+  }
+
+  .autobus1 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 530px;
+    right: 3%;
+    font-size: 11px;
+  }
+
+  .autobus2 {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    top: 600px;
+    right: 9.5%;
+    font-size: 11px;
+  }
+
+  .scndautobusp {
+    position: absolute;
+    right: 6%;
+    color: snow;
+    z-index: 1;
+    top: 565px;
+    font-size: 11px;
+  }
+
+  .contnumber {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 29%;
+    top: 645px;
+    font-size: 12px;
+  }
+
+  .contemail {
+    position: absolute;
+    color: snow;
+    z-index: 1;
+    left: 24%;
+    top: 625px;
+    font-size: 12px;
+  }
+
+  .greenbus {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 50%;
+    top: 523px;
+  }
+
+  .bluebus1 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 50%;
+    top: 560px;
+  }
+
+  .bluebus2 {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    z-index: 1;
+    right: 50%;
+    top: 595px;
+  }
+
+  .metroimgp {
+    position: absolute;
+    right: 5%;
+    width: 440px;
+  }
+
+  .greenbusimgp {
+    position: absolute;
+    width: 440px;
+    right: 5%;
+  }
+
+  .bluebus1imgp {
+    position: absolute;
+    width: 440px;
+    right: 5%;
+  }
+
+  .bluebus2imgp {
+    position: absolute;
+    width: 440px;
+    right: 5%;
+
+  }
+
+  .citaprevia {
+    position: absolute;
+    width: 180px;
+    height: 80px;
+    background-color: snow;
+    z-index: 3;
+    right: 0%;
+    top: 83.5%;
+    border-radius: 10px 0 0 10px;
+  }
+
+  .cita {
+    position: absolute;
+    left: 40px;
+    font-size: 20px;
+    top: 2px;
+    color: #0092d6;
+  }
+
+  .Solicite {
+    position: absolute;
+    top: 26px;
+    left: 5px;
+    font-size: 14px;
+  }
+
+  .percent {
+    position: absolute;
+    top: 42px;
+    left: 70px;
+    font-size: 30px;
+    color: #0092d6;
+  }
+
+  .Hnavbar {
+    display: none;
+  }
+
+  .Historiah1 {
+    font-size: 40px;
+    top: 70px;
+    left: 22%;
+  }
+
+  .Historypaper {
+    width: 300px;
+    left: 2%;
+    top: 120px;
+  }
+
+  .Hfooter {
+    top: 580px;
+  }
+
+  .h2blog {
+    position: absolute;
+    top: 922px;
+    left: 3%;
+    font-size: 15px;
+    color: #636363;
+  }
+
+  .thirdline {
+    position: absolute;
+    width: 125px;
+    height: 3px;
+    background-color: #0092d6;
+    top: 963px;
+    left: 27%;
+    border-radius: 30px;
+  }
+
+  .blogp {
+    position: absolute;
+    top: 980px;
+    width: 70%;
+    left: 15%;
+    font-size: 14px;
+    color: #636363;
+  }
+
+  .scndblogp {
+    position: absolute;
+    top: 1190px;
+    width: 70%;
+    left: 15%;
+    font-size: 14px;
+    color: #636363;
+  }
+
+  .cumplimos {
+    position: absolute;
+    top: 1285px;
+    font-size: 14px;
+    color: #636363;
+    width: 50%;
+    left: 24%;
+  }
+
+  .footer {
+    position: absolute;
+    top: 2300px;
+    width: 100%;
+    height: 130px;
+    background-color: #0092d6;
+  }
+
+  .Fhorarios {
+    position: absolute;
+    color: snow;
+    margin-top: 25px;
+    font-size: 13px;
+    left: 2px;
+  }
+
+  .Flaborables {
+    position: absolute;
+    color: snow;
+    font-size: 13px;
+    left: 2px;
+    margin-top: 40px;
+  }
+
+  .Ftardes {
+    position: absolute;
+    color: snow;
+    font-size: 13px;
+    left: 2px;
+    margin-top: 70px;
+  }
+
+  .Fsabados {
+    position: absolute;
+    color: snow;
+    font-size: 13px;
+    left: 2px;
+    margin-top: 55px;
+  }
+
+  .enlaces {
+    position: absolute;
+    left: 33%;
+    margin-top: 5px;
+    color: snow;
+    font-size: 13px;
+  }
+
+  .dgt {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .semt {
+    position: absolute;
+    right: 10%;
+    top: 30%;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .designed {
+    position: absolute;
+    bottom: 5%;
+    color: snow;
+    right: 3%;
+    font-size: 13px;
+  }
+
+  /*links here*/
+
+  .hiddendiv a {
+    color: snow;
+    text-decoration: none;
+  }
+
+  .hiddendiv a:hover {
+    color: #595959;
+  }
+
+  .historia {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .historia:hover {
+    color: #595959;
+  }
+
+  .loscentros {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .loscentros:hover {
+    color: #595959;
+  }
+
+  .contactol {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .contactol:hover {
+    color: #595959;
+  }
+
+  .start {
+    color: #0092d6;
+    text-decoration: none;
+  }
+
+  .start:hover {
+    color: #595959;
+  }
+
+  /*Animations */
+
+
+
+  /*conducir html */
+
+  .Driving {
+    filter: brightness(80%);
+    width: 100%;
+  }
+
+  .Cfirsth1 {
+    position: absolute;
+    color: snow;
+    font-size: 22px;
+    left: 19%;
+    top: 90px;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Clinebetween {
+    position: absolute;
+    width: 150px;
+    height: 4px;
+    background-color: #0092d6;
+    top: 120px;
+    left: 25%;
+    border-radius: 3px;
+  }
+
+  .girldrive{
+    position: absolute;
+    right: 4.2%;
+    width: 280px;
+    height: 163px;
+    margin-top: 310px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Obtencion {
+    position: absolute;
+    margin-top: 3px;
+    color: #0092d6;
+    left: 1%;
+    font-size: 16px;
+  }
+
+  .Te {
+    position: absolute;
+    margin-top: 43px;
+    left: 1%;
+    color: #454545;
+    font-size: 12.7px;
+
+  }
+
+  .obtencionUl {
+    position: absolute;
+    margin-top: 150px;
+    left: 1%;
+    color: #454545;
+    font-size: 12.7px;
+  }
+
+  .obtencionUl li {
+    margin-top: 5px;
+  }
+
+  .documentss {
+    position: absolute;
+    width: 280px;
+    height: 163px;
+    margin-top: 600px;
+    left: 3.5%;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Documentacion {
+    position: absolute;
+    margin-top: 490px;
+    font-size: 16px;
+    right: 25%;
+    color: #0092d6;
+  }
+
+  .DocumentacionUL {
+    position: absolute;
+    margin-top: 535px;
+    right: 4%;
+    font-size: 12.7px;
+    color: #454545;
+  }
+
+  .paises {
+    position: absolute;
+    margin-top: 780px;
+    left: 4%;
+    font-size: 16px;
+    color: #0092d6;
+  }
+
+  .Los {
+    margin-top: 860px;
+    position: absolute;
+    left: 0.5%;
+    font-size: 12.7px;
+    color: #454545;
+    text-align: center;
+  }
+
+  .Gocontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    top: 1090px;
+    left: 21%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Cfooter {
+    position: absolute;
+    top: 1160px;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+  }
+
+  /*operadores html */
+
+  .Ggrua {
+    width: 100%;
+  }
+
+  .Ofirsth1 {
+    font-size: 22px;
+    color: snow;
+    position: absolute;
+    top: 95px;
+    left: 26%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .En {
+    position: absolute;
+    left: 0.2%;
+    color: #0092d6;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 2px;
+  }
+
+  .desea {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 70px;
+    left: 2%;
+    text-align: center;
+  }
+
+  .Oque {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    text-align: center;
+    margin-top: 330px;
+    left: 0%;
+  }
+  .segun {
+    position: absolute;
+    margin-top: 380px;
+    font-size: 12.7px;
+    color: #454545;
+    left: 0.1%;
+    text-align: center;
+  }
+
+  .necesitas {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    top: 585px;
+    text-align: center;
+    left: 0%;
+  }
+
+  .Osolo {
+    position: absolute;
+    left: 0%;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 495px;
+    text-align: center;
+  }
+
+  .Ofooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 620px;
+  }
+
+  .Ocontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    top: 700px;
+    left: 21%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Otorreimage {
+    position: absolute;
+    right: 5%;
+    width: 280px;
+    height: 163px;
+    margin-top: 150px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*Armas.html*/
+
+  .Aarmas {
+    width: 100%;
+  }
+
+  .Afirsth1 {
+    font-size: 22px;
+    color: snow;
+    position: absolute;
+    top: 95px;
+    left: 5%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Aobtencion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 16px;
+    left: 1%;
+    margin-top: 2px;
+  }
+
+  .AobtencionP {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    left: 2%;
+    margin-top: 50px;
+  }
+
+  .AobtencionUL {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    left: 6%;
+    margin-top: 230px;
+  }
+
+  .Adocumentacion {
+    position: absolute;
+    color: #0092d6;
+    font-size: 16px;
+    left: 20%;
+    margin-top: 480px;
+  }
+
+  .AdocumentacionUL {
+    position: absolute;
+    margin-top: 515px;
+    color: #454545;
+    left: 7%;
+    font-size: 12.7px;
+  }
+
+  .Atipos {
+    position: absolute;
+    margin-top: 580px;
+    font-size: 16px;
+    color: #0092d6;
+    right: 20%;
+  }
+
+  .tiposp {
+    position: absolute;
+    margin-top: 615px;
+    right: 0%;
+    font-size: 12.7px;
+    color: #454545;
+  }
+
+  .Acontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    top: 1020px;
+    left: 20%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .Huntimg {
+    position: absolute;
+    right: 4%;
+    width: 280px;
+    height: 163px;
+    margin-top: 300px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .Huntpic {
+    position: absolute;
+    left: 3%;
+    width: 280px;
+    height: 163px;
+    margin-top: 680px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .ARfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 950px;
+  }
+
+  /*animales html*/
+
+  .ANfirsth1 {
+    font-size: 22px;
+    color: snow;
+    position: absolute;
+    top: 95px;
+    left: 18%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .ANobtener {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    left: 1%;
+    margin-top: 1px;
+  }
+
+  .ANla {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 30px;
+    left: 1%;
+  }
+
+  .ANa {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 166px;
+    left: 1%;
+  }
+
+  .ANdocumentacion {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    margin-top: 415px;
+    right: 1%;
+  }
+  .ANsecondUL {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 470px;
+    right: 0%;
+  }
+
+  .ANsecondUL li {
+    margin-top: 5px;
+  }
+
+  .ANrazas {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    margin-top: 930px;
+    right: 0%;
+  }
+
+  .animalslink {
+    position: absolute;
+    font-size: 13px;
+    color: #454545;
+    right: 5%;
+    margin-top: 985px;
+    text-align: center;
+  }
+
+  .ANquien {
+    position: absolute;
+    font-size: 16px;
+    color: #0092d6;
+    margin-top: 1235px;
+    right: 35%;
+  }
+
+  .ANfourthUL {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 1275px;
+    right: 6%;
+  }
+
+  .ANfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 1410px;
+  }
+
+  .ANcontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    top: 1480px;
+    left: 22%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .dog1 {
+    position: absolute;
+    right: 5%;
+    width: 280px;
+    height: 163px;
+    margin-top: 240px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog2 {
+    position: absolute;
+    left: 3%;
+    width: 280px;
+    height: 163px;
+    margin-top: 750px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  .dog3 {
+    position: absolute;
+    left: 3%;
+    width: 280px;
+    height: 163px;
+    margin-top: 1055px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /*barcos html*/
+
+  .BAfirsth1 {
+    font-size: 22px;
+    color: snow;
+    position: absolute;
+    top: 95px;
+    left: 10%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .Bcertificados {
+    position: absolute;
+    color: #0092d6;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 2px;
+    left: 0%;
+  }
+
+  .Bpatron {
+    position: absolute;
+    color: #454545;
+    font-size: 12.7px;
+    margin-top: 60px;
+    left: 1%;
+  }
+
+  .Bno {
+    position: absolute;
+    color: #454545;
+    font-size: 12.7px;
+    margin-top: 170px;
+    left: 1%;
+  }
+
+  .Bcomoes {
+    position: absolute;
+    color: #0092d6;
+    font-size: 16px;
+    margin-top: 270px;
+    text-align: center;
+    left: 0%;
+  }
+
+  .Blos {
+    position: absolute;
+    color: #454545;
+    font-size: 12.7px;
+    margin-top: 315px;
+    left: 1%;
+  }
+
+  .Btal {
+    position: absolute;
+    color: #454545;
+    font-size: 12.7px;
+    margin-top: 395px;
+    left: 1%;
+  }
+
+  .Bsi {
+    position: absolute;
+    color: #454545;
+    font-size: 12.7px;
+    margin-top: 505px;
+    left: 1%;
+  }
+
+  .Bsolo {
+    position: absolute;
+    color: #454545;
+    font-size: 12.7px;
+    margin-top: 555px;
+    left: 1%;
+  }
+
+  .Bfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 650px;
+  }
+
+  .Bcontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    margin-top: 595px;
+    left: 23%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  /*buceo html*/
+
+  .BUfirsth1 {
+    font-size: 22px;
+    color: snow;
+    position: absolute;
+    top: 95px;
+    left: 23%;
+    text-shadow: 3px 2px 2px rgba(154, 150, 150, 1);
+  }
+
+  .BUcertificado {
+    position: absolute;
+    font-size: 16px;
+    text-align: center;
+    color: #0092d6;
+    left: 19%;
+    margin-top: 2px;
+  }
+
+  .BUrealizamos {
+  position: absolute;
+  font-size: 12.7px;
+  color: #454545;
+  margin-top: 30px;
+  left: 1%;
+  }
+
+  .BUrealizamos li {
+    margin-top: 5px;
+  }
+
+  .BUnuestra {
+    position: absolute;
+    font-size: 12.7px;
+    color: #454545;
+    margin-top: 205px;
+    left: 1%;
+  }
+
+  .BUfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 520px;
+  }
+
+  .BUcontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    margin-top: 460px;
+    left: 21%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+
+  .ddivingsea {
+    position: absolute;
+    right: 4%;
+    width: 280px;
+    height: 163px;
+    margin-top: 275px;
+    border-radius: 50px 50px 50px 50px;
+    -webkit-box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  box-shadow: 0px 0px 12px 5px rgba(0,0,0,0.21);
+  }
+
+  /* Ordinarios html */
+
+  .ordinariosUL {
+    position: absolute;
+    font-size: 13.3px;
+    color: #454545;
+    right: 2%;
+    margin-top: 480px;
+  }
+
+  .certificateimg {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+    margin-top: 30px;
+  }
+
+  .ORcontact {
+    position: absolute;
+    width: 170px;
+    height: 47px;
+    left: 20%;
+    font-size: 20px;
+    background-color: #0092d6;
+    color: snow;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 630px;
+  }
+
+  .ORfooter {
+    position: absolute;
+    width: 100%;
+    height: 170px;
+    background-color: #0092d6;
+    margin-top: 700px;
+  }
+}
